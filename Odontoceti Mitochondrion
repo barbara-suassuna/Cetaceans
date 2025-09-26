@@ -1,0 +1,35 @@
+taxtest<- entrez_search(db="taxonomy", term="Odontoceti") 
+taxtestout<-entrez_summary(db="taxonomy", id=taxtest$ids)
+taxout<-entrez_search(db="taxonomy", term = "txid9722[SBTR]", retmax=2000)
+taxout$ids
+
+
+#Table
+odontdata<-matrix(,nrow=(length(unique(taxout$ids))),ncol=5)
+colnames(odontdata)<-c("taxid","speciesname","accnum","seqname","slen")
+i<-1
+mitosequence<-character()
+for(i in 1:length(unique(taxout$ids))){
+  print(i)
+  odontdata[i,1]<-taxout$ids[i] 
+  record<-entrez_summary(db="taxonomy",id=taxout$ids[i])
+  odontdata[i,2]<-record$scientificname
+  seqout<-entrez_search(db="nuccore", term=paste("txid",taxout$ids[i],"[ORGN] AND MITOCHONDRION[ALL]", sep=""),
+                        retmax=1)
+  if(length(seqout$ids)<1){
+    odontdata[i,3]<-NA
+    odontdata[i,4]<-NA
+    odontdata[i,5]<-NA
+  }
+  else{
+    sumout<-entrez_summary(db="nuccore",id=seqout$ids)
+    odontdata[i,3]<-sumout$accessionversion
+    odontdata[i,4]<-sumout$title
+    odontdata[i,5]<-sumout$slen
+    seq.dat<-entrez_fetch(db="nuccore", id=sumout$accessionversion, rettype="fasta")
+    seq.dat<-sub(">([^\n]*)", paste0(">",sumout$organism), seq.dat)
+    seq.dat<-gsub(" ","_",seq.dat)
+    mitosequence<-c(mitosequence, seq.dat)
+  } 
+}
+write(mitosequence, file="mitochondrial_odontoceti.fasta")
