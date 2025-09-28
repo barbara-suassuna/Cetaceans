@@ -1,0 +1,252 @@
+"","taxid","speciesname","accnum","seqname","seqlen"
+"1","3371156","Sagmatias obscurus","KC312621.1","Lagenorhynchus obscurus voucher LobNZ16 mitochondrion, partial genome","13345"
+"2","3371155","Sagmatias obliquidens","NC_035426.1","Lagenorhynchus obliquidens voucher CRI007319 mitochondrion, complete genome","16392"
+"3","3371154","Sagmatias cruciger","KC312620.1","Lagenorhynchus cruciger voucher Lcr98PA01 mitochondrion, partial genome","13345"
+"4","3371153","Sagmatias australis","KC312630.1","Lagenorhynchus australis voucher Lau 03 Ma #2 mitochondrion, partial genome","13345"
+"5","3371109","Leucopleurus acutus","OZ185479.1","Lagenorhynchus acutus genome assembly, organelle: mitochondrion","16384"
+"6","3371042","Sagmatias","NC_035426.1","Lagenorhynchus obliquidens voucher CRI007319 mitochondrion, complete genome","16392"
+"7","3371041","Leucopleurus","OZ185479.1","Lagenorhynchus acutus genome assembly, organelle: mitochondrion","16384"
+"8","3370372","Neophocaena sunameri","BK071572.1","TPA_asm: Neophocaena sunameri isolate NH19 mitochondrion, complete genome","16387"
+"9","3370120","Inia humboldtiana",NA,NA,NA
+"10","3108004","Balaenoptera musculus brevicauda",NA,NA,NA
+"11","3056774","Delphinus bairdii","PP761292.1","Delphinus bairdii voucher KXD0325 isolate SWFSC_MMASTR_191186 mitochondrion, complete genome","16375"
+"12","3056773","Delphinus delphis delphis","PP761298.1","Delphinus delphis delphis voucher KKS0025 isolate SWFSC_MMASTR_191179 mitochondrion, complete genome","16375"
+"13","3029583","Neophocaena sp. ZSIWGRC_3627",NA,NA,NA
+"14","3029582","Neophocaena sp. ZSIWGRC_3626",NA,NA,NA
+"15","3029581","unclassified Neophocaena",NA,NA,NA
+"16","3027314","Tursiops sp. TT",NA,NA,NA
+"17","3027313","Tursiops sp. TA",NA,NA,NA
+"18","2944587","Tursiops erebennus",NA,NA,NA
+"19","2941322","Balaenoptera musculus musculus","CM071136.1","Balaenoptera musculus musculus isolate ROMM125066 ecotype North Atlantic mitochondrion, complete sequence, whole genome shotgun sequence","16402"
+"20","2880878","Sousa plumbea","OQ274894.1","Sousa plumbea mitochondrion, partial genome","14387"
+"21","2878263","Mesoplodon eueu","OK326893.1","Mesoplodon eueu voucher NMNZ MM003000 (MmiNZ01) mitochondrion, complete genome","16342"
+"22","2746895","Balaenoptera ricei","PQ997938.1","Balaenoptera ricei voucher NIST 3 NM17K954C mitochondrion, complete genome","16409"
+"23","2688959","unclassified Stenella (in: whales & dolphins)",NA,NA,NA
+"24","2684924","unclassified Delphinus",NA,NA,NA
+"25","2663531","Tursiops truncatus truncatus",NA,NA,NA
+"26","2643127","unclassified Tursiops",NA,NA,NA
+"27","2637209","unclassified Globicephala","AJ226118.1","Globicephala sp. mitochondrial DNA for D-loop control region, isolate probe I3","422"
+"28","2635866","unclassified Balaenoptera",NA,NA,NA
+"29","2634352","unclassified Sotalia",NA,NA,NA
+"30","2626396","unclassified Mesoplodon",NA,NA,NA
+"31","2622018","unclassified Sousa",NA,NA,NA
+"32","2617658","unclassified Lissodelphis",NA,NA,NA
+"33","2608848","Berardius minimus",NA,NA,NA
+"34","2588969","Stenella sp. STC3",NA,NA,NA
+"35","2588968","Stenella sp. STC2",NA,NA,NA
+"36","2581134","Delphinidae sp. FOAJ489-09",NA,NA,NA
+"37","2267219","Delphinus sp. YORK 14186",NA,NA,NA
+"38","1961080","Tursiops truncatus ponticus",NA,NA,NA
+"39","1961079","Delphinus delphis ponticus",NA,NA,NA
+"40","1921798","Sousa sahulensis",NA,NA,NA
+"41","1706337","Neophocaena asiaeorientalis asiaeorientalis","BK071538.1","TPA_asm: Neophocaena asiaeorientalis asiaeorientalis isolate CJ15 mitochondrion, complete genome","16387"
+"42","1607687","Phocoena phocoena phocoena",NA,NA,NA
+"43","1454009","Inia araguaiaensis",NA,NA,NA
+"44","1326930","Mesoplodon sp. 1 CSB-2013",NA,NA,NA
+"45","1303773","Delphinus sp. 1 AN-2013",NA,NA,NA
+"46","1276262","Cephalorhynchus hectori maui","KC312627.1","Cephalorhynchus hectori maui voucher NI36 mitochondrion, partial genome","13343"
+"47","1234366","Mesoplodon hotaula",NA,NA,NA
+"48","1220054","Phocoena phocoena relicta",NA,NA,NA
+"49","1183062","Cephalorhynchus hectori hectori","KC312626.1","Cephalorhynchus hectori hectori voucher CheCB0304 mitochondrion, partial genome","13344"
+"50","1087195","Sousa sp. IND1",NA,NA,NA
+"51","1087194","Sousa sp. HK9",NA,NA,NA
+"52","1087193","Sousa sp. HK8",NA,NA,NA
+"53","1087192","Sousa sp. HK7",NA,NA,NA
+"54","1087191","Sousa sp. HK6",NA,NA,NA
+"55","1087190","Sousa sp. HK5",NA,NA,NA
+"56","1087189","Sousa sp. HK4",NA,NA,NA
+"57","1087188","Sousa sp. HK3",NA,NA,NA
+"58","1087187","Sousa sp. HK2",NA,NA,NA
+"59","1087186","Sousa sp. HK1",NA,NA,NA
+"60","1087185","Sousa sp. AUS5",NA,NA,NA
+"61","1087184","Sousa sp. AUS4",NA,NA,NA
+"62","1087183","Sousa sp. AUS3",NA,NA,NA
+"63","1087182","Sousa sp. AUS2",NA,NA,NA
+"64","1087181","Sousa sp. AUS1",NA,NA,NA
+"65","1086039","Tursiops australis","NC_022805.1","Tursiops australis isolate SABD1 mitochondrion, complete genome","16388"
+"66","1085636","Tursiops sp. CHF-2011",NA,NA,NA
+"67","1085635","Sousa sp. CHF-2011",NA,NA,NA
+"68","974257","Cetacea sp. BOLD:AAN3889",NA,NA,NA
+"69","816560","Cetacea sp. BOLD:AAG1886",NA,NA,NA
+"70","727676","unclassified Cetacea",NA,NA,NA
+"71","682059","Orcaella heinsohni","PP829133.1","Orcaella heinsohni voucher USNM 284429 mitochondrion, complete genome","16392"
+"72","656111","Globicephala sp. EECT-2009a",NA,NA,NA
+"73","511736","Sousa teuszii","NC_045404.1","Sousa teuszii voucher USNM:MAMM:605133 mitochondrion, complete genome","16384"
+"74","487985","Balaenoptera acutorostrata subsp. unnamed",NA,NA,NA
+"75","469900","Tursiops sp. SWFSC Z34066",NA,NA,NA
+"76","468686","Sousa sp. NA026",NA,NA,NA
+"77","468685","Sousa sp. NA025",NA,NA,NA
+"78","468684","Sousa sp. NA005",NA,NA,NA
+"79","468683","Sousa sp. NA002",NA,NA,NA
+"80","468682","Sousa sp. HK020",NA,NA,NA
+"81","468681","Sousa sp. HK017",NA,NA,NA
+"82","468680","Sousa sp. HK016",NA,NA,NA
+"83","468679","Sousa sp. HK015",NA,NA,NA
+"84","468678","Sousa sp. AU005",NA,NA,NA
+"85","468677","Sousa sp. AU004",NA,NA,NA
+"86","468676","Sousa sp. AU003",NA,NA,NA
+"87","468675","Sousa sp. AU002",NA,NA,NA
+"88","468674","Sousa sp. AU001",NA,NA,NA
+"89","436502","Tursiops sp. KB-2007",NA,NA,NA
+"90","420362","Sotalia sp. SSC-2007",NA,NA,NA
+"91","338729","Sotalia guianensis","KM893424.1","UNVERIFIED: Sotalia guianensis mitochondrion sequence","16388"
+"92","323442","Stenella longirostris centroamericana",NA,NA,NA
+"93","323441","Stenella longirostris longirostris",NA,NA,NA
+"94","321137","Tursiops sp. AN-2005",NA,NA,NA
+"95","310752","Balaenoptera acutorostrata scammoni",NA,NA,NA
+"96","302098","Eubalaena japonica","PV951523.1","UNVERIFIED: Eubalaena japonica isolate UAMN3760 mitochondrion sequence","16355"
+"97","272214","Mesoplodon ginkgodens","NC_027593.1","Mesoplodon ginkgodens voucher NMNS17594 mitochondrion, complete genome","16339"
+"98","255365","Balaenoptera brydei","NC_006928.1","Balaenoptera brydei mitochondrion, complete genome","16408"
+"99","255217","Balaenoptera omurai","NC_007937.1","Balaenoptera omurai mitochondrion, complete genome","16404"
+"100","226940","Neobalaenidae","NC_005269.1","Caperea marginata mitochondrion, complete genome","16383"
+"101","224732","Phocoena phocoena x Phocoenoides dalli",NA,NA,NA
+"102","224731","Phocoena phocoena vomerina",NA,NA,NA
+"103","221924","Indopacetus pacificus","NC_034348.1","Indopacetus pacificus voucher NMNS011169 mitochondrion, complete genome","16341"
+"104","221923","Indopacetus","NC_034348.1","Indopacetus pacificus voucher NMNS011169 mitochondrion, complete genome","16341"
+"105","200929","Mesoplodon traversii",NA,NA,NA
+"106","197540","Iniidae","PQ632151.1","Inia boliviensis voucher 18_3 mitochondrion, complete genome","16591"
+"107","197539","Pontoporiidae","NC_005277.1","Pontoporia blainvillei mitochondrion, complete genome","16593"
+"108","196388","Lissodelphis sp.",NA,NA,NA
+"109","189058","Neophocaena asiaeorientalis","BK071538.1","TPA_asm: Neophocaena asiaeorientalis asiaeorientalis isolate CJ15 mitochondrion, complete genome","16387"
+"110","187411","Mesoplodon perrini",NA,NA,NA
+"111","160595","Eubalaena australis","OP205180.1","Eubalaena australis isolate Eaus_AP006474 mitochondrion, complete genome","16385"
+"112","158747","Stenella longirostris orientalis",NA,NA,NA
+"113","152705","Tursiops truncatus gephyreus",NA,NA,NA
+"114","149090","Inia geoffrensis geoffrensis",NA,NA,NA
+"115","149089","Inia boliviensis","PQ632151.1","Inia boliviensis voucher 18_3 mitochondrion, complete genome","16591"
+"116","139690","Globicephala sp. IIC2000",NA,NA,NA
+"117","119500","Lipotidae","NC_007629.1","Lipotes vexillifer mitochondrion, complete genome","16392"
+"118","118798","Platanista gangetica","NC_057433.1","Platanista gangetica isolate Ganges_River_Dolphin-S1 mitochondrion, complete genome","16319"
+"119","118797","Lipotes vexillifer","NC_007629.1","Lipotes vexillifer mitochondrion, complete genome","16392"
+"120","118796","Lipotes","NC_007629.1","Lipotes vexillifer mitochondrion, complete genome","16392"
+"121","103600","Sousa chinensis","NC_012057.1","Sousa chinensis mitochondrion, complete genome","16388"
+"122","103599","Sousa","OQ274894.1","Sousa plumbea mitochondrion, partial genome","14387"
+"123","103598","Sotalia fluviatilis","KM893423.1","UNVERIFIED: Sotalia fluviatilis mitochondrion sequence","16388"
+"124","103597","Sotalia","KM893424.1","UNVERIFIED: Sotalia guianensis mitochondrion sequence","16388"
+"125","103596","Peponocephala electra","ON652908.1","Peponocephala electra isolate SWFSC_MMASTR_126108 mitochondrion, complete genome","16389"
+"126","103595","Peponocephala","ON652908.1","Peponocephala electra isolate SWFSC_MMASTR_126108 mitochondrion, complete genome","16389"
+"127","103594","Lagenodelphis hosei","NC_037848.1","Lagenodelphis hosei voucher CRI000009 mitochondrion, complete genome","16390"
+"128","103593","Lagenodelphis","NC_037848.1","Lagenodelphis hosei voucher CRI000009 mitochondrion, complete genome","16390"
+"129","103592","Feresa attenuata","OR612672.1","UNVERIFIED: Feresa attenuata isolate SER19-01079 mitochondrion sequence","16398"
+"130","103591","Feresa","OR612672.1","UNVERIFIED: Feresa attenuata isolate SER19-01079 mitochondrion sequence","16398"
+"131","103590","Stenella frontalis","NC_060612.1","Stenella frontalis isolate SRR16086847 mitochondrion, complete genome","16386"
+"132","103589","Stenella clymene","NC_060611.1","Stenella clymene isolate SRR16086849 mitochondrion, complete genome","16384"
+"133","103588","Lissodelphis borealis",NA,NA,NA
+"134","103585","Delphinus tropicalis",NA,NA,NA
+"135","103584","Delphinus capensis","NC_012061.1","Delphinus capensis mitochondrion, complete genome","16385"
+"136","103583","Cephalorhynchus heavisidii","NC_020696.1","Cephalorhynchus heavisidii isolate SUN mitochondrion, complete genome","16371"
+"137","103582","Cephalorhynchus commersonii","NC_060610.1","Cephalorhynchus commersonii isolate SRR12437578 mitochondrion, complete genome","16374"
+"138","86033","Platanista indi",NA,NA,NA
+"139","85550","Balaenoptera musculus x Balaenoptera physalus",NA,NA,NA
+"140","83653","Grampus griseus","OZ206336.1","Grampus griseus genome assembly, organelle: mitochondrion","16386"
+"141","83652","Grampus","OZ206336.1","Grampus griseus genome assembly, organelle: mitochondrion","16386"
+"142","82174","Pseudorca crassidens","ON652964.1","Pseudorca crassidens isolate SWFSC_MMASTR_186425 mitochondrion, complete genome","16382"
+"143","82173","Pseudorca","ON652964.1","Pseudorca crassidens isolate SWFSC_MMASTR_186425 mitochondrion, complete genome","16382"
+"144","79784","Tursiops aduncus","NC_012058.1","Tursiops aduncus mitochondrion, complete genome","16385"
+"145","77568","Globicephala sp.","AJ226118.1","Globicephala sp. mitochondrial DNA for D-loop control region, isolate probe I3","422"
+"146","74480","Ziphiidae sp.","AJ226132.1","Ziphiidae sp. mitochondrial DNA for cob gene, isolate probe S4","406"
+"147","74395","Mesoplodon layardii",NA,NA,NA
+"148","74394","Mesoplodon grayi","NC_023830.1","Mesoplodon grayi voucher Mgr159 mitochondrion, complete genome","16347"
+"149","74393","Mesoplodon bowdoini",NA,NA,NA
+"150","74392","Hyperoodon planifrons",NA,NA,NA
+"151","74391","Berardius arnuxii",NA,NA,NA
+"152","52116","Tasmacetus shepherdi",NA,NA,NA
+"153","52115","Tasmacetus",NA,NA,NA
+"154","52114","Mesoplodon stejnegeri","NC_036997.1","Mesoplodon stejnegeri voucher CRI000090 mitochondrion, complete genome","16349"
+"155","52113","Mesoplodon mirus","OZ205435.1","Mesoplodon mirus genome assembly, organelle: mitochondrion","16346"
+"156","52112","Mesoplodon hectori",NA,NA,NA
+"157","49273","Delphinidae gen. sp.",NA,NA,NA
+"158","49272","unclassified Delphinidae",NA,NA,NA
+"159","48752","Platanista minor","NC_005275.1","Platanista minor mitochondrion, complete genome","16324"
+"160","48750","Platanista","NC_057433.1","Platanista gangetica isolate Ganges_River_Dolphin-S1 mitochondrion, complete genome","16319"
+"161","48747","Orcaella brevirostris","PP829035.1","Orcaella brevirostris voucher NHM 1964.2.24.1 mitochondrion, complete genome","16389"
+"162","48746","Orcaella","PP829133.1","Orcaella heinsohni voucher USNM 284429 mitochondrion, complete genome","16392"
+"163","48745","Mesoplodon bidens","OZ073234.1","Mesoplodon bidens genome assembly, organelle: mitochondrion","16348"
+"164","48744","Hyperoodon ampullatus","NC_005273.1","Hyperoodon ampullatus mitochondrion, complete genome","16346"
+"165","48743","Hyperoodon","NC_005273.1","Hyperoodon ampullatus mitochondrion, complete genome","16346"
+"166","48742","Berardius bairdii","NC_005274.1","Berardius bairdii mitochondrion, complete genome","16346"
+"167","48741","Berardius","NC_005274.1","Berardius bairdii mitochondrion, complete genome","16346"
+"168","48723","Pontoporia blainvillei","NC_005277.1","Pontoporia blainvillei mitochondrion, complete genome","16593"
+"169","48722","Pontoporia","NC_005277.1","Pontoporia blainvillei mitochondrion, complete genome","16593"
+"170","48708","Mesoplodon densirostris","NC_021974.2","Mesoplodon densirostris isolate SWFSC ID z0004010 mitochondrion, complete genome","16347"
+"171","46167","Steno bredanensis","NC_042761.1","Steno bredanensis voucher CRI008296 mitochondrion, complete genome","16386"
+"172","46166","Steno","NC_042761.1","Steno bredanensis voucher CRI008296 mitochondrion, complete genome","16386"
+"173","42100","Phocoena sinus","MZ772969.1","Phocoena sinus isolate SWFSC LAB ID 186935 mitochondrion, complete genome","16370"
+"174","40151","Monodon monoceros","OQ554048.1","Monodon monoceros isolate S_20_01221 mitochondrion, complete genome","16382"
+"175","40150","Monodon","OQ554048.1","Monodon monoceros isolate S_20_01221 mitochondrion, complete genome","16382"
+"176","38241","Globicephala macrorhynchus","NC_019578.2","Globicephala macrorhynchus mitochondrion, complete genome","16390"
+"177","37035","Cephalorhynchus hectori","KC312627.1","Cephalorhynchus hectori maui voucher NI36 mitochondrion, partial genome","13343"
+"178","37034","Balaenopteridae gen. sp.",NA,NA,NA
+"179","34892","Neophocaena phocaenoides","BK071573.1","TPA_asm: Neophocaena phocaenoides isolate NH20 mitochondrion, complete genome","16386"
+"180","34891","Neophocaena","BK071573.1","TPA_asm: Neophocaena phocaenoides isolate NH20 mitochondrion, complete genome","16386"
+"181","34890","Phocoena dioptrica","NC_053752.1","Phocoena dioptrica isolate 7014 mitochondrion, complete genome","16319"
+"182","33556","Balaenoptera bonaerensis","NC_006926.1","Balaenoptera bonaerensis mitochondrion, complete genome","16421"
+"183","30558","Balaenidae","PV951523.1","UNVERIFIED: Eubalaena japonica isolate UAMN3760 mitochondrion sequence","16355"
+"184","30557","Balaenoptera sp.",NA,NA,NA
+"185","29074","Stenella plagiodon",NA,NA,NA
+"186","27617","Mesoplodon peruvianus","U13118.1","Mesoplodon peruvianus mitochondrion 16S rRNA gene, partial sequence","520"
+"187","27616","Mesoplodon europaeus","NC_021434.2","Mesoplodon europaeus isolate SWFSC ID z0002698 mitochondrion, complete genome","16343"
+"188","27615","Kogia breviceps","NC_005272.1","Kogia breviceps mitochondrion, complete genome","16406"
+"189","27614","Phocoena spinipinnis","MZ772972.1","Phocoena spinipinnis isolate SWFSC LAB ID 1095 mitochondrion, complete genome","16371"
+"190","27613","Lissodelphis peronii","U13138.1","Lissodelphis peronii mitochondrion cytochrome b gene, partial cds","424"
+"191","27612","Lissodelphis","U13138.1","Lissodelphis peronii mitochondrion cytochrome b gene, partial cds","424"
+"192","27610","Lagenorhynchus albirostris","NC_083094.1","Lagenorhynchus albirostris mitochondrion, complete genome","16393"
+"193","27609","Lagenorhynchus","NC_083094.1","Lagenorhynchus albirostris mitochondrion, complete genome","16393"
+"194","27608","Cephalorhynchus eutropia","KC312624.1","Cephalorhynchus eutropia voucher Ceut25 mitochondrion, partial genome","13329"
+"195","27607","Cephalorhynchus","NC_060610.1","Cephalorhynchus commersonii isolate SRR12437578 mitochondrion, complete genome","16374"
+"196","27606","Eubalaena glacialis","OP205191.1","Eubalaena glacialis isolate SWFSC_MMASTR_28311 mitochondrion, complete genome","16387"
+"197","27605","Eubalaena","PV951523.1","UNVERIFIED: Eubalaena japonica isolate UAMN3760 mitochondrion sequence","16355"
+"198","27604","Caperea marginata","NC_005269.1","Caperea marginata mitochondrion, complete genome","16383"
+"199","27603","Caperea","NC_005269.1","Caperea marginata mitochondrion, complete genome","16383"
+"200","27602","Balaena mysticetus","NC_005268.1","Balaena mysticetus mitochondrion, complete genome","16390"
+"201","27601","Balaena","NC_005268.1","Balaena mysticetus mitochondrion, complete genome","16390"
+"202","9773","Megaptera novaeangliae","PP475430.1","Megaptera novaeangliae voucher NIST KW2013002 mitochondrion, complete genome","16397"
+"203","9772","Megaptera","PP475430.1","Megaptera novaeangliae voucher NIST KW2013002 mitochondrion, complete genome","16397"
+"204","9771","Balaenoptera musculus","ON675436.1","Balaenoptera musculus isolate SWFSC_MMASTR_139526 mitochondrion, complete genome","16403"
+"205","9770","Balaenoptera physalus","OZ239533.1","Balaenoptera physalus genome assembly, organelle: mitochondrion","16400"
+"206","9769","Balaenoptera edeni","CM128048.1","Balaenoptera edeni isolate HK-072023 mitochondrion, whole genome shotgun sequence","16409"
+"207","9768","Balaenoptera borealis","OZ239556.1","Balaenoptera borealis genome assembly, organelle: mitochondrion","16409"
+"208","9767","Balaenoptera acutorostrata","PV951522.1","UNVERIFIED: Balaenoptera acutorostrata isolate UAMN3724 mitochondrion sequence","16348"
+"209","9766","Balaenoptera","CM128048.1","Balaenoptera edeni isolate HK-072023 mitochondrion, whole genome shotgun sequence","16409"
+"210","9765","Balaenopteridae","CM128048.1","Balaenoptera edeni isolate HK-072023 mitochondrion, whole genome shotgun sequence","16409"
+"211","9764","Eschrichtius robustus","NC_005270.1","Eschrichtius robustus mitochondrion, complete genome","16412"
+"212","9763","Eschrichtius","NC_005270.1","Eschrichtius robustus mitochondrion, complete genome","16412"
+"213","9762","Eschrichtiidae","NC_005270.1","Eschrichtius robustus mitochondrion, complete genome","16412"
+"214","9761","Mysticeti","CM128048.1","Balaenoptera edeni isolate HK-072023 mitochondrion, whole genome shotgun sequence","16409"
+"215","9760","Ziphius cavirostris","PQ164987.1","Ziphius cavirostris isolate S-2407-73 mitochondrion, complete genome","16349"
+"216","9759","Ziphius","PQ164987.1","Ziphius cavirostris isolate S-2407-73 mitochondrion, complete genome","16349"
+"217","9758","Mesoplodon carlhubbsi",NA,NA,NA
+"218","9757","Mesoplodon","OZ205435.1","Mesoplodon mirus genome assembly, organelle: mitochondrion","16346"
+"219","9756","Ziphiidae","PQ164987.1","Ziphius cavirostris isolate S-2407-73 mitochondrion, complete genome","16349"
+"220","9755","Physeter macrocephalus","ON725080.1","Physeter catodon voucher Pm54 NHMUK#15071600 mitochondrion, complete genome","16418"
+"221","9753","Physeter","ON725080.1","Physeter catodon voucher Pm54 NHMUK#15071600 mitochondrion, complete genome","16418"
+"222","9752","Kogia sima","NC_041303.1","Kogia sima mitochondrion, complete genome","16403"
+"223","9751","Kogia","NC_041303.1","Kogia sima mitochondrion, complete genome","16403"
+"224","9750","Physeteridae","ON725080.1","Physeter catodon voucher Pm54 NHMUK#15071600 mitochondrion, complete genome","16418"
+"225","9749","Delphinapterus leucas","OQ554323.1","Delphinapterus leucas isolate S_20_04130 mitochondrion, complete genome","16386"
+"226","9748","Delphinapterus","OQ554323.1","Delphinapterus leucas isolate S_20_04130 mitochondrion, complete genome","16386"
+"227","9747","Monodontidae","OQ554323.1","Delphinapterus leucas isolate S_20_04130 mitochondrion, complete genome","16386"
+"228","9745","Phocoenoides dalli dalli",NA,NA,NA
+"229","9744","Phocoenoides dalli","NC_053753.1","Phocoenoides dalli isolate 1454242 mitochondrion, complete genome","16319"
+"230","9743","Phocoenoides","NC_053753.1","Phocoenoides dalli isolate 1454242 mitochondrion, complete genome","16319"
+"231","9742","Phocoena phocoena","MZ772957.1","Phocoena phocoena isolate SWFSC LAB ID 57788 mitochondrion, complete genome","16384"
+"232","9741","Phocoena","MZ772972.1","Phocoena spinipinnis isolate SWFSC LAB ID 1095 mitochondrion, complete genome","16371"
+"233","9740","Phocoenidae","BK071573.1","TPA_asm: Neophocaena phocaenoides isolate NH20 mitochondrion, complete genome","16386"
+"234","9739","Tursiops truncatus","NM_001289802.1","Tursiops truncatus ornithine decarboxylase antizyme 1 (OAZ1), mRNA","950"
+"235","9738","Tursiops","NM_001289802.1","Tursiops truncatus ornithine decarboxylase antizyme 1 (OAZ1), mRNA","950"
+"236","9737","Stenella coeruleoalba","OX596408.1","Stenella coeruleoalba genome assembly, organelle: mitochondrion","16385"
+"237","9736","Stenella longirostris","NC_032301.1","Stenella longirostris isolate z0000065 mitochondrion, complete genome","16370"
+"238","9735","Stenella attenuata","OR612588.1","UNVERIFIED: Stenella attenuata isolate SER18-00667 mitochondrion sequence","16399"
+"239","9734","Stenella","OR612588.1","UNVERIFIED: Stenella attenuata isolate SER18-00667 mitochondrion sequence","16399"
+"240","9733","Orcinus orca","PQ878651.1","Orcinus orca isolate KU340 voucher personal collection:Olga Filatova:2022-03 mitochondrion, complete genome","16387"
+"241","9732","Orcinus","PQ878651.1","Orcinus orca isolate KU340 voucher personal collection:Olga Filatova:2022-03 mitochondrion, complete genome","16387"
+"242","9731","Globicephala melas","OY734062.1","Globicephala melas genome assembly, organelle: mitochondrion","16390"
+"243","9729","Globicephala","OY734062.1","Globicephala melas genome assembly, organelle: mitochondrion","16390"
+"244","9728","Delphinus delphis","PP375181.1","Delphinus delphis voucher USNM:MAMM:502373 mitochondrion, complete genome","16386"
+"245","9727","Delphinus","PP375181.1","Delphinus delphis voucher USNM:MAMM:502373 mitochondrion, complete genome","16386"
+"246","9726","Delphinidae","NM_001289802.1","Tursiops truncatus ornithine decarboxylase antizyme 1 (OAZ1), mRNA","950"
+"247","9725","Inia geoffrensis","CM070922.1","Inia geoffrensis isolate mIniGeo1 mitochondrion, complete sequence, whole genome shotgun sequence","16589"
+"248","9724","Inia","PQ632151.1","Inia boliviensis voucher 18_3 mitochondrion, complete genome","16591"
+"249","9723","Platanistidae","NC_057433.1","Platanista gangetica isolate Ganges_River_Dolphin-S1 mitochondrion, complete genome","16319"
+"250","9722","Odontoceti","BK071573.1","TPA_asm: Neophocaena phocaenoides isolate NH20 mitochondrion, complete genome","16386"
+"251","9721","Cetacea","CM128048.1","Balaenoptera edeni isolate HK-072023 mitochondrion, whole genome shotgun sequence","16409"
