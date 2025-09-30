@@ -1,0 +1,252 @@
+"","taxID","SpeciesName","AccNum","SeqName","SeqLen"
+"1","3371156","Sagmatias obscurus",NA,NA,NA
+"2","3371155","Sagmatias obliquidens","EU139283.1","Lagenorhynchus obliquidens voucher UAM:Mamm:90239 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","643"
+"3","3371154","Sagmatias cruciger",NA,NA,NA
+"4","3371153","Sagmatias australis",NA,NA,NA
+"5","3371109","Leucopleurus acutus","KF281662.1","Lagenorhynchus acutus voucher La190711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","632"
+"6","3371042","Sagmatias","EU139283.1","Lagenorhynchus obliquidens voucher UAM:Mamm:90239 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","643"
+"7","3371041","Leucopleurus","KF281662.1","Lagenorhynchus acutus voucher La190711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","632"
+"8","3370372","Neophocaena sunameri",NA,NA,NA
+"9","3370120","Inia humboldtiana",NA,NA,NA
+"10","3108004","Balaenoptera musculus brevicauda",NA,NA,NA
+"11","3056774","Delphinus bairdii",NA,NA,NA
+"12","3056773","Delphinus delphis delphis",NA,NA,NA
+"13","3029583","Neophocaena sp. ZSIWGRC_3627",NA,NA,NA
+"14","3029582","Neophocaena sp. ZSIWGRC_3626",NA,NA,NA
+"15","3029581","unclassified Neophocaena",NA,NA,NA
+"16","3027314","Tursiops sp. TT",NA,NA,NA
+"17","3027313","Tursiops sp. TA",NA,NA,NA
+"18","2944587","Tursiops erebennus",NA,NA,NA
+"19","2941322","Balaenoptera musculus musculus",NA,NA,NA
+"20","2880878","Sousa plumbea",NA,NA,NA
+"21","2878263","Mesoplodon eueu",NA,NA,NA
+"22","2746895","Balaenoptera ricei",NA,NA,NA
+"23","2688959","unclassified Stenella (in: whales & dolphins)",NA,NA,NA
+"24","2684924","unclassified Delphinus",NA,NA,NA
+"25","2663531","Tursiops truncatus truncatus",NA,NA,NA
+"26","2643127","unclassified Tursiops",NA,NA,NA
+"27","2637209","unclassified Globicephala",NA,NA,NA
+"28","2635866","unclassified Balaenoptera",NA,NA,NA
+"29","2634352","unclassified Sotalia",NA,NA,NA
+"30","2626396","unclassified Mesoplodon",NA,NA,NA
+"31","2622018","unclassified Sousa",NA,NA,NA
+"32","2617658","unclassified Lissodelphis",NA,NA,NA
+"33","2608848","Berardius minimus",NA,NA,NA
+"34","2588969","Stenella sp. STC3",NA,NA,NA
+"35","2588968","Stenella sp. STC2",NA,NA,NA
+"36","2581134","Delphinidae sp. FOAJ489-09","GU674138.1","Delphinidae sp. FOAJ489-09 voucher BW-A7339 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","647"
+"37","2267219","Delphinus sp. YORK 14186",NA,NA,NA
+"38","1961080","Tursiops truncatus ponticus",NA,NA,NA
+"39","1961079","Delphinus delphis ponticus",NA,NA,NA
+"40","1921798","Sousa sahulensis",NA,NA,NA
+"41","1706337","Neophocaena asiaeorientalis asiaeorientalis",NA,NA,NA
+"42","1607687","Phocoena phocoena phocoena",NA,NA,NA
+"43","1454009","Inia araguaiaensis","KU561666.1","Inia araguaiaensis voucher MPEG:42122 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","520"
+"44","1326930","Mesoplodon sp. 1 CSB-2013",NA,NA,NA
+"45","1303773","Delphinus sp. 1 AN-2013",NA,NA,NA
+"46","1276262","Cephalorhynchus hectori maui",NA,NA,NA
+"47","1234366","Mesoplodon hotaula",NA,NA,NA
+"48","1220054","Phocoena phocoena relicta",NA,NA,NA
+"49","1183062","Cephalorhynchus hectori hectori",NA,NA,NA
+"50","1087195","Sousa sp. IND1",NA,NA,NA
+"51","1087194","Sousa sp. HK9",NA,NA,NA
+"52","1087193","Sousa sp. HK8",NA,NA,NA
+"53","1087192","Sousa sp. HK7",NA,NA,NA
+"54","1087191","Sousa sp. HK6",NA,NA,NA
+"55","1087190","Sousa sp. HK5",NA,NA,NA
+"56","1087189","Sousa sp. HK4",NA,NA,NA
+"57","1087188","Sousa sp. HK3",NA,NA,NA
+"58","1087187","Sousa sp. HK2",NA,NA,NA
+"59","1087186","Sousa sp. HK1",NA,NA,NA
+"60","1087185","Sousa sp. AUS5",NA,NA,NA
+"61","1087184","Sousa sp. AUS4",NA,NA,NA
+"62","1087183","Sousa sp. AUS3",NA,NA,NA
+"63","1087182","Sousa sp. AUS2",NA,NA,NA
+"64","1087181","Sousa sp. AUS1",NA,NA,NA
+"65","1086039","Tursiops australis",NA,NA,NA
+"66","1085636","Tursiops sp. CHF-2011",NA,NA,NA
+"67","1085635","Sousa sp. CHF-2011",NA,NA,NA
+"68","974257","Cetacea sp. BOLD:AAN3889",NA,NA,NA
+"69","816560","Cetacea sp. BOLD:AAG1886",NA,NA,NA
+"70","727676","unclassified Cetacea",NA,NA,NA
+"71","682059","Orcaella heinsohni",NA,NA,NA
+"72","656111","Globicephala sp. EECT-2009a",NA,NA,NA
+"73","511736","Sousa teuszii",NA,NA,NA
+"74","487985","Balaenoptera acutorostrata subsp. unnamed",NA,NA,NA
+"75","469900","Tursiops sp. SWFSC Z34066",NA,NA,NA
+"76","468686","Sousa sp. NA026",NA,NA,NA
+"77","468685","Sousa sp. NA025",NA,NA,NA
+"78","468684","Sousa sp. NA005",NA,NA,NA
+"79","468683","Sousa sp. NA002",NA,NA,NA
+"80","468682","Sousa sp. HK020",NA,NA,NA
+"81","468681","Sousa sp. HK017",NA,NA,NA
+"82","468680","Sousa sp. HK016",NA,NA,NA
+"83","468679","Sousa sp. HK015",NA,NA,NA
+"84","468678","Sousa sp. AU005",NA,NA,NA
+"85","468677","Sousa sp. AU004",NA,NA,NA
+"86","468676","Sousa sp. AU003",NA,NA,NA
+"87","468675","Sousa sp. AU002",NA,NA,NA
+"88","468674","Sousa sp. AU001",NA,NA,NA
+"89","436502","Tursiops sp. KB-2007",NA,NA,NA
+"90","420362","Sotalia sp. SSC-2007",NA,NA,NA
+"91","338729","Sotalia guianensis","HQ918433.1","Sotalia guianensis voucher T-2989 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","658"
+"92","323442","Stenella longirostris centroamericana",NA,NA,NA
+"93","323441","Stenella longirostris longirostris",NA,NA,NA
+"94","321137","Tursiops sp. AN-2005",NA,NA,NA
+"95","310752","Balaenoptera acutorostrata scammoni",NA,NA,NA
+"96","302098","Eubalaena japonica",NA,NA,NA
+"97","272214","Mesoplodon ginkgodens",NA,NA,NA
+"98","255365","Balaenoptera brydei","MH638371.1","Balaenoptera brydei cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","638"
+"99","255217","Balaenoptera omurai","MK317953.1","Balaenoptera omurai isolate SH20170416 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","206"
+"100","226940","Neobalaenidae",NA,NA,NA
+"101","224732","Phocoena phocoena x Phocoenoides dalli",NA,NA,NA
+"102","224731","Phocoena phocoena vomerina",NA,NA,NA
+"103","221924","Indopacetus pacificus",NA,NA,NA
+"104","221923","Indopacetus",NA,NA,NA
+"105","200929","Mesoplodon traversii",NA,NA,NA
+"106","197540","Iniidae","KU561666.1","Inia araguaiaensis voucher MPEG:42122 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","520"
+"107","197539","Pontoporiidae",NA,NA,NA
+"108","196388","Lissodelphis sp.",NA,NA,NA
+"109","189058","Neophocaena asiaeorientalis",NA,NA,NA
+"110","187411","Mesoplodon perrini",NA,NA,NA
+"111","160595","Eubalaena australis",NA,NA,NA
+"112","158747","Stenella longirostris orientalis",NA,NA,NA
+"113","152705","Tursiops truncatus gephyreus",NA,NA,NA
+"114","149090","Inia geoffrensis geoffrensis",NA,NA,NA
+"115","149089","Inia boliviensis","KP009805.1","Inia boliviensis haplotype Hap5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","520"
+"116","139690","Globicephala sp. IIC2000",NA,NA,NA
+"117","119500","Lipotidae",NA,NA,NA
+"118","118798","Platanista gangetica",NA,NA,NA
+"119","118797","Lipotes vexillifer",NA,NA,NA
+"120","118796","Lipotes",NA,NA,NA
+"121","103600","Sousa chinensis","DQ922632.1","Sousa chinensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","644"
+"122","103599","Sousa","DQ922632.1","Sousa chinensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","644"
+"123","103598","Sotalia fluviatilis",NA,NA,NA
+"124","103597","Sotalia","HQ918433.1","Sotalia guianensis voucher T-2989 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","658"
+"125","103596","Peponocephala electra","KX079494.1","Peponocephala electra isolate Pe06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","495"
+"126","103595","Peponocephala","KX079494.1","Peponocephala electra isolate Pe06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","495"
+"127","103594","Lagenodelphis hosei",NA,NA,NA
+"128","103593","Lagenodelphis",NA,NA,NA
+"129","103592","Feresa attenuata",NA,NA,NA
+"130","103591","Feresa",NA,NA,NA
+"131","103590","Stenella frontalis","EF090646.1","Stenella frontalis isolate SF2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","756"
+"132","103589","Stenella clymene",NA,NA,NA
+"133","103588","Lissodelphis borealis","EU139284.1","Lissodelphis borealis voucher UAM:Mamm:90371 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"134","103585","Delphinus tropicalis",NA,NA,NA
+"135","103584","Delphinus capensis",NA,NA,NA
+"136","103583","Cephalorhynchus heavisidii",NA,NA,NA
+"137","103582","Cephalorhynchus commersonii",NA,NA,NA
+"138","86033","Platanista indi",NA,NA,NA
+"139","85550","Balaenoptera musculus x Balaenoptera physalus",NA,NA,NA
+"140","83653","Grampus griseus","KF281614.1","Grampus griseus voucher Gg120708 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","636"
+"141","83652","Grampus","KF281614.1","Grampus griseus voucher Gg120708 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","636"
+"142","82174","Pseudorca crassidens",NA,NA,NA
+"143","82173","Pseudorca",NA,NA,NA
+"144","79784","Tursiops aduncus",NA,NA,NA
+"145","77568","Globicephala sp.",NA,NA,NA
+"146","74480","Ziphiidae sp.",NA,NA,NA
+"147","74395","Mesoplodon layardii",NA,NA,NA
+"148","74394","Mesoplodon grayi",NA,NA,NA
+"149","74393","Mesoplodon bowdoini",NA,NA,NA
+"150","74392","Hyperoodon planifrons",NA,NA,NA
+"151","74391","Berardius arnuxii",NA,NA,NA
+"152","52116","Tasmacetus shepherdi",NA,NA,NA
+"153","52115","Tasmacetus",NA,NA,NA
+"154","52114","Mesoplodon stejnegeri","EU139287.1","Mesoplodon stejnegeri voucher UAM:Mamm:85500 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","631"
+"155","52113","Mesoplodon mirus",NA,NA,NA
+"156","52112","Mesoplodon hectori",NA,NA,NA
+"157","49273","Delphinidae gen. sp.",NA,NA,NA
+"158","49272","unclassified Delphinidae","GU674138.1","Delphinidae sp. FOAJ489-09 voucher BW-A7339 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","647"
+"159","48752","Platanista minor",NA,NA,NA
+"160","48750","Platanista",NA,NA,NA
+"161","48747","Orcaella brevirostris",NA,NA,NA
+"162","48746","Orcaella",NA,NA,NA
+"163","48745","Mesoplodon bidens",NA,NA,NA
+"164","48744","Hyperoodon ampullatus","KF281660.1","Hyperoodon ampullatus voucher ha311000 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","654"
+"165","48743","Hyperoodon","KF281660.1","Hyperoodon ampullatus voucher ha311000 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","654"
+"166","48742","Berardius bairdii",NA,NA,NA
+"167","48741","Berardius",NA,NA,NA
+"168","48723","Pontoporia blainvillei",NA,NA,NA
+"169","48722","Pontoporia",NA,NA,NA
+"170","48708","Mesoplodon densirostris",NA,NA,NA
+"171","46167","Steno bredanensis","DQ922633.1","Steno bredanensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","644"
+"172","46166","Steno","DQ922633.1","Steno bredanensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","644"
+"173","42100","Phocoena sinus",NA,NA,NA
+"174","40151","Monodon monoceros","JF443293.1","Monodon monoceros voucher HBL008319 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","608"
+"175","40150","Monodon","JF443293.1","Monodon monoceros voucher HBL008319 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","608"
+"176","38241","Globicephala macrorhynchus","KU708837.1","Globicephala macrorhynchus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","603"
+"177","37035","Cephalorhynchus hectori",NA,NA,NA
+"178","37034","Balaenopteridae gen. sp.",NA,NA,NA
+"179","34892","Neophocaena phocaenoides","HQ268824.1","Neophocaena phocaenoides cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","623"
+"180","34891","Neophocaena","HQ268824.1","Neophocaena phocaenoides cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","623"
+"181","34890","Phocoena dioptrica",NA,NA,NA
+"182","33556","Balaenoptera bonaerensis","LC106302.1","Balaenoptera bonaerensis mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds","479"
+"183","30558","Balaenidae","EU139271.1","Balaena mysticetus voucher UAM:Mamm:86892 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"184","30557","Balaenoptera sp.",NA,NA,NA
+"185","29074","Stenella plagiodon",NA,NA,NA
+"186","27617","Mesoplodon peruvianus",NA,NA,NA
+"187","27616","Mesoplodon europaeus",NA,NA,NA
+"188","27615","Kogia breviceps","KY542084.1","Kogia breviceps isolate 20120412 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"189","27614","Phocoena spinipinnis",NA,NA,NA
+"190","27613","Lissodelphis peronii",NA,NA,NA
+"191","27612","Lissodelphis","EU139284.1","Lissodelphis borealis voucher UAM:Mamm:90371 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"192","27610","Lagenorhynchus albirostris",NA,NA,NA
+"193","27609","Lagenorhynchus",NA,NA,NA
+"194","27608","Cephalorhynchus eutropia",NA,NA,NA
+"195","27607","Cephalorhynchus",NA,NA,NA
+"196","27606","Eubalaena glacialis",NA,NA,NA
+"197","27605","Eubalaena",NA,NA,NA
+"198","27604","Caperea marginata",NA,NA,NA
+"199","27603","Caperea",NA,NA,NA
+"200","27602","Balaena mysticetus","EU139271.1","Balaena mysticetus voucher UAM:Mamm:86892 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"201","27601","Balaena","EU139271.1","Balaena mysticetus voucher UAM:Mamm:86892 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"202","9773","Megaptera novaeangliae","KY001616.1","Megaptera novaeangliae isolate FHNA cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","711"
+"203","9772","Megaptera","KY001616.1","Megaptera novaeangliae isolate FHNA cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","711"
+"204","9771","Balaenoptera musculus","KX079489.1","Balaenoptera musculus isolate Bm01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","495"
+"205","9770","Balaenoptera physalus","MK965209.1","Balaenoptera physalus voucher RMNH.MAM.41465 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"206","9769","Balaenoptera edeni","GQ856370.1","Balaenoptera edeni cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","584"
+"207","9768","Balaenoptera borealis","MK965207.1","Balaenoptera borealis voucher RMNH.MAM.22579 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"208","9767","Balaenoptera acutorostrata","MK965208.1","Balaenoptera acutorostrata voucher RMNH.MAM.41459 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"209","9766","Balaenoptera","MK965209.1","Balaenoptera physalus voucher RMNH.MAM.41465 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"210","9765","Balaenopteridae","MK965209.1","Balaenoptera physalus voucher RMNH.MAM.41465 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"211","9764","Eschrichtius robustus","KY542083.1","Eschrichtius robustus isolate 20111105 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"212","9763","Eschrichtius","KY542083.1","Eschrichtius robustus isolate 20111105 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"213","9762","Eschrichtiidae","KY542083.1","Eschrichtius robustus isolate 20111105 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"214","9761","Mysticeti","MK965209.1","Balaenoptera physalus voucher RMNH.MAM.41465 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","77"
+"215","9760","Ziphius cavirostris","EU139297.1","Ziphius cavirostris voucher UAM:Mamm:94547 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"216","9759","Ziphius","EU139297.1","Ziphius cavirostris voucher UAM:Mamm:94547 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"217","9758","Mesoplodon carlhubbsi",NA,NA,NA
+"218","9757","Mesoplodon","EU139287.1","Mesoplodon stejnegeri voucher UAM:Mamm:85500 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","631"
+"219","9756","Ziphiidae","EU139297.1","Ziphius cavirostris voucher UAM:Mamm:94547 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"220","9755","Physeter macrocephalus","KX079491.1","Physeter macrocephalus isolate Pm03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","495"
+"221","9753","Physeter","KX079491.1","Physeter macrocephalus isolate Pm03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","495"
+"222","9752","Kogia sima","MF929074.1","Kogia sima cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","528"
+"223","9751","Kogia","KY542084.1","Kogia breviceps isolate 20120412 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"224","9750","Physeteridae","KY542084.1","Kogia breviceps isolate 20120412 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"225","9749","Delphinapterus leucas","EU139277.1","Delphinapterus leucas voucher UAM:Mamm:67158 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"226","9748","Delphinapterus","EU139277.1","Delphinapterus leucas voucher UAM:Mamm:67158 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"227","9747","Monodontidae","EU139277.1","Delphinapterus leucas voucher UAM:Mamm:67158 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"228","9745","Phocoenoides dalli dalli",NA,NA,NA
+"229","9744","Phocoenoides dalli","EU139294.1","Phocoenoides dalli voucher UAM:Mamm:90376 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"230","9743","Phocoenoides","EU139294.1","Phocoenoides dalli voucher UAM:Mamm:90376 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"231","9742","Phocoena phocoena","JF442789.1","UNVERIFIED_ORG: Phocoena phocoena voucher UAM:Mamm:99603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","652"
+"232","9741","Phocoena","JF442789.1","UNVERIFIED_ORG: Phocoena phocoena voucher UAM:Mamm:99603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","652"
+"233","9740","Phocoenidae","JF442789.1","UNVERIFIED_ORG: Phocoena phocoena voucher UAM:Mamm:99603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","652"
+"234","9739","Tursiops truncatus","KU992116.1","Tursiops truncatus isolate Ttr_PE1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","837"
+"235","9738","Tursiops","KU992116.1","Tursiops truncatus isolate Ttr_PE1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","837"
+"236","9737","Stenella coeruleoalba","EF090644.1","Stenella coeruleoalba isolate H15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","756"
+"237","9736","Stenella longirostris",NA,NA,NA
+"238","9735","Stenella attenuata","KY542086.1","Stenella attenuata isolate 20130608 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"239","9734","Stenella","KY542086.1","Stenella attenuata isolate 20130608 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","659"
+"240","9733","Orcinus orca","EU139289.1","Orcinus orca voucher UAM:Mamm:86887 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"241","9732","Orcinus","EU139289.1","Orcinus orca voucher UAM:Mamm:86887 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"242","9731","Globicephala melas",NA,NA,NA
+"243","9729","Globicephala","KU708837.1","Globicephala macrorhynchus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","603"
+"244","9728","Delphinus delphis","EU139278.1","Delphinus delphis voucher UAM:Mamm:90357 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"245","9727","Delphinus","EU139278.1","Delphinus delphis voucher UAM:Mamm:90357 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial","657"
+"246","9726","Delphinidae","HQ918433.1","Sotalia guianensis voucher T-2989 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","658"
+"247","9725","Inia geoffrensis","KF802276.1","Inia geoffrensis voucher 367MMI cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","520"
+"248","9724","Inia","KU561666.1","Inia araguaiaensis voucher MPEG:42122 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial","520"
+"249","9723","Platanistidae",NA,NA,NA
+"250","9722","Odontoceti","JF442789.1","UNVERIFIED_ORG: Phocoena phocoena voucher UAM:Mamm:99603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","652"
+"251","9721","Cetacea","JF442789.1","UNVERIFIED_ORG: Phocoena phocoena voucher UAM:Mamm:99603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial","652"
