@@ -24,7 +24,7 @@ for(i in 1:length(unique(pull_taxa$ids))){
   cetacea_data[i,2]<-record$scientificname
   seqout<-entrez_search(db="nuccore", term=paste("txid",pull_taxa$ids[i],"[ORGN] AND 1:4500[SLEN] 
                                                  AND PRESTIN[ALL]", sep=""), 
-                        retmax=15)
+                        retmax=1)
   
   if(length(seqout$ids)<1){
     cetacea_data[i,3]<-NA
@@ -63,7 +63,7 @@ for(i in 1:length(unique(pull_taxa$ids))){
   cetacea_data[i,2]<-record$scientificname
   seqout<-entrez_search(db="nuccore", term=paste("txid",pull_taxa$ids[i],"[ORGN] AND 1:4500[SLEN] 
                                                  AND CYTB[GENE]", sep=""), 
-                        retmax=15)
+                        retmax=1)
   
   if(length(seqout$ids)<1){
     cetacea_data[i,3]<-NA
@@ -102,7 +102,7 @@ for(i in 1:length(unique(pull_taxa$ids))){
   cetacea_data[i,2]<-record$scientificname
   seqout<-entrez_search(db="nuccore", term=paste("txid",pull_taxa$ids[i],"[ORGN] AND 1:4500[SLEN] 
                                                  AND COI[GENE]", sep=""), 
-                        retmax=15)
+                        retmax=1)
   
   if(length(seqout$ids)<1){
     cetacea_data[i,3]<-NA
