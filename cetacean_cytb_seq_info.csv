@@ -1,0 +1,252 @@
+"","taxID","SpeciesName","AccNum","SeqName","SeqLen"
+"1","3371156","Sagmatias obscurus","AY821653.1","Lagenorhynchus obscurus haplotype NZ5 cytochrome b (cytb) gene, partial cds; mitochondrial","795"
+"2","3371155","Sagmatias obliquidens",NA,NA,NA
+"3","3371154","Sagmatias cruciger",NA,NA,NA
+"4","3371153","Sagmatias australis",NA,NA,NA
+"5","3371109","Leucopleurus acutus",NA,NA,NA
+"6","3371042","Sagmatias","AY821653.1","Lagenorhynchus obscurus haplotype NZ5 cytochrome b (cytb) gene, partial cds; mitochondrial","795"
+"7","3371041","Leucopleurus",NA,NA,NA
+"8","3370372","Neophocaena sunameri","KU820912.1","Neophocaena sunameri voucher N20150508 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"9","3370120","Inia humboldtiana","AF521110.1","Inia geoffrensis humboldtiana isolate ARAUCA cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product","600"
+"10","3108004","Balaenoptera musculus brevicauda",NA,NA,NA
+"11","3056774","Delphinus bairdii",NA,NA,NA
+"12","3056773","Delphinus delphis delphis",NA,NA,NA
+"13","3029583","Neophocaena sp. ZSIWGRC_3627",NA,NA,NA
+"14","3029582","Neophocaena sp. ZSIWGRC_3626",NA,NA,NA
+"15","3029581","unclassified Neophocaena",NA,NA,NA
+"16","3027314","Tursiops sp. TT",NA,NA,NA
+"17","3027313","Tursiops sp. TA",NA,NA,NA
+"18","2944587","Tursiops erebennus",NA,NA,NA
+"19","2941322","Balaenoptera musculus musculus",NA,NA,NA
+"20","2880878","Sousa plumbea","OR545836.1","Sousa plumbea isolate SP-01/23 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial","1693"
+"21","2878263","Mesoplodon eueu",NA,NA,NA
+"22","2746895","Balaenoptera ricei","KJ586849.1","Balaenoptera ricei voucher SEFSC:MMMGL:Bede007 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"23","2688959","unclassified Stenella (in: whales & dolphins)",NA,NA,NA
+"24","2684924","unclassified Delphinus",NA,NA,NA
+"25","2663531","Tursiops truncatus truncatus",NA,NA,NA
+"26","2643127","unclassified Tursiops",NA,NA,NA
+"27","2637209","unclassified Globicephala",NA,NA,NA
+"28","2635866","unclassified Balaenoptera",NA,NA,NA
+"29","2634352","unclassified Sotalia",NA,NA,NA
+"30","2626396","unclassified Mesoplodon",NA,NA,NA
+"31","2622018","unclassified Sousa",NA,NA,NA
+"32","2617658","unclassified Lissodelphis",NA,NA,NA
+"33","2608848","Berardius minimus",NA,NA,NA
+"34","2588969","Stenella sp. STC3",NA,NA,NA
+"35","2588968","Stenella sp. STC2",NA,NA,NA
+"36","2581134","Delphinidae sp. FOAJ489-09",NA,NA,NA
+"37","2267219","Delphinus sp. YORK 14186",NA,NA,NA
+"38","1961080","Tursiops truncatus ponticus",NA,NA,NA
+"39","1961079","Delphinus delphis ponticus",NA,NA,NA
+"40","1921798","Sousa sahulensis","KU522438.1","Sousa sahulensis clone DOL01 cytochrome b (cytb) gene, partial cds; mitochondrial","601"
+"41","1706337","Neophocaena asiaeorientalis asiaeorientalis",NA,NA,NA
+"42","1607687","Phocoena phocoena phocoena",NA,NA,NA
+"43","1454009","Inia araguaiaensis","KU882049.1","Inia araguaiaensis isolate MJ27_TOC cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"44","1326930","Mesoplodon sp. 1 CSB-2013",NA,NA,NA
+"45","1303773","Delphinus sp. 1 AN-2013",NA,NA,NA
+"46","1276262","Cephalorhynchus hectori maui",NA,NA,NA
+"47","1234366","Mesoplodon hotaula","OR754054.1","Mesoplodon hotaula isolate B2 cytochrome b (cytb) gene, partial cds; mitochondrial","384"
+"48","1220054","Phocoena phocoena relicta",NA,NA,NA
+"49","1183062","Cephalorhynchus hectori hectori",NA,NA,NA
+"50","1087195","Sousa sp. IND1",NA,NA,NA
+"51","1087194","Sousa sp. HK9",NA,NA,NA
+"52","1087193","Sousa sp. HK8",NA,NA,NA
+"53","1087192","Sousa sp. HK7",NA,NA,NA
+"54","1087191","Sousa sp. HK6",NA,NA,NA
+"55","1087190","Sousa sp. HK5",NA,NA,NA
+"56","1087189","Sousa sp. HK4",NA,NA,NA
+"57","1087188","Sousa sp. HK3",NA,NA,NA
+"58","1087187","Sousa sp. HK2",NA,NA,NA
+"59","1087186","Sousa sp. HK1",NA,NA,NA
+"60","1087185","Sousa sp. AUS5",NA,NA,NA
+"61","1087184","Sousa sp. AUS4",NA,NA,NA
+"62","1087183","Sousa sp. AUS3",NA,NA,NA
+"63","1087182","Sousa sp. AUS2",NA,NA,NA
+"64","1087181","Sousa sp. AUS1",NA,NA,NA
+"65","1086039","Tursiops australis","JN571482.1","Tursiops australis voucher QVMAG1365 haplotype BurruCytb1 cytochrome b (cytb) gene, partial cds; mitochondrial","1086"
+"66","1085636","Tursiops sp. CHF-2011",NA,NA,NA
+"67","1085635","Sousa sp. CHF-2011",NA,NA,NA
+"68","974257","Cetacea sp. BOLD:AAN3889",NA,NA,NA
+"69","816560","Cetacea sp. BOLD:AAG1886",NA,NA,NA
+"70","727676","unclassified Cetacea",NA,NA,NA
+"71","682059","Orcaella heinsohni",NA,NA,NA
+"72","656111","Globicephala sp. EECT-2009a",NA,NA,NA
+"73","511736","Sousa teuszii",NA,NA,NA
+"74","487985","Balaenoptera acutorostrata subsp. unnamed",NA,NA,NA
+"75","469900","Tursiops sp. SWFSC Z34066",NA,NA,NA
+"76","468686","Sousa sp. NA026",NA,NA,NA
+"77","468685","Sousa sp. NA025",NA,NA,NA
+"78","468684","Sousa sp. NA005",NA,NA,NA
+"79","468683","Sousa sp. NA002",NA,NA,NA
+"80","468682","Sousa sp. HK020",NA,NA,NA
+"81","468681","Sousa sp. HK017",NA,NA,NA
+"82","468680","Sousa sp. HK016",NA,NA,NA
+"83","468679","Sousa sp. HK015",NA,NA,NA
+"84","468678","Sousa sp. AU005",NA,NA,NA
+"85","468677","Sousa sp. AU004",NA,NA,NA
+"86","468676","Sousa sp. AU003",NA,NA,NA
+"87","468675","Sousa sp. AU002",NA,NA,NA
+"88","468674","Sousa sp. AU001",NA,NA,NA
+"89","436502","Tursiops sp. KB-2007",NA,NA,NA
+"90","420362","Sotalia sp. SSC-2007",NA,NA,NA
+"91","338729","Sotalia guianensis","EU022549.1","Sotalia guianensis haplotype HapEye05 cytochrome b (cytb) gene, partial cds; mitochondrial","741"
+"92","323442","Stenella longirostris centroamericana",NA,NA,NA
+"93","323441","Stenella longirostris longirostris",NA,NA,NA
+"94","321137","Tursiops sp. AN-2005",NA,NA,NA
+"95","310752","Balaenoptera acutorostrata scammoni",NA,NA,NA
+"96","302098","Eubalaena japonica",NA,NA,NA
+"97","272214","Mesoplodon ginkgodens","PV029739.1","Mesoplodon ginkgodens cytochrome b (cytb) gene, partial cds; mitochondrial","416"
+"98","255365","Balaenoptera brydei","OQ865151.1","Balaenoptera brydei isolate QKM55094 tRNA-Glu gene, partial sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial","443"
+"99","255217","Balaenoptera omurai","MW984424.1","Balaenoptera omurai isolate FCG201901 cytochrome b (cytb) gene, partial cds; mitochondrial","630"
+"100","226940","Neobalaenidae",NA,NA,NA
+"101","224732","Phocoena phocoena x Phocoenoides dalli",NA,NA,NA
+"102","224731","Phocoena phocoena vomerina",NA,NA,NA
+"103","221924","Indopacetus pacificus",NA,NA,NA
+"104","221923","Indopacetus",NA,NA,NA
+"105","200929","Mesoplodon traversii",NA,NA,NA
+"106","197540","Iniidae","KU882049.1","Inia araguaiaensis isolate MJ27_TOC cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"107","197539","Pontoporiidae",NA,NA,NA
+"108","196388","Lissodelphis sp.",NA,NA,NA
+"109","189058","Neophocaena asiaeorientalis","KJ472903.1","Neophocaena asiaeorientalis haplotype CB09 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"110","187411","Mesoplodon perrini","AF441263.1","Mesoplodon perrini TMMC-C75 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product","384"
+"111","160595","Eubalaena australis","DQ095153.1","Eubalaena australis isolate EA604 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"112","158747","Stenella longirostris orientalis",NA,NA,NA
+"113","152705","Tursiops truncatus gephyreus",NA,NA,NA
+"114","149090","Inia geoffrensis geoffrensis","AF521112.1","Inia geoffrensis geoffrensis isolate PT13 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product","600"
+"115","149089","Inia boliviensis","AF521105.1","Inia geoffrensis boliviensis isolate BV42 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product","600"
+"116","139690","Globicephala sp. IIC2000",NA,NA,NA
+"117","119500","Lipotidae",NA,NA,NA
+"118","118798","Platanista gangetica","PQ212750.1","Platanista gangetica isolate CIFRI.DOLP-1 cytochrome b (cytb) gene, partial cds; mitochondrial","359"
+"119","118797","Lipotes vexillifer",NA,NA,NA
+"120","118796","Lipotes",NA,NA,NA
+"121","103600","Sousa chinensis","KU522439.1","Sousa chinensis clone SOU01 cytochrome b (cytb) gene, partial cds; mitochondrial","329"
+"122","103599","Sousa","OR545836.1","Sousa plumbea isolate SP-01/23 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial","1693"
+"123","103598","Sotalia fluviatilis","DQ086828.1","Sotalia fluviatilis cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"124","103597","Sotalia","EU022549.1","Sotalia guianensis haplotype HapEye05 cytochrome b (cytb) gene, partial cds; mitochondrial","741"
+"125","103596","Peponocephala electra","OL628820.1","Peponocephala electra cytochrome b (cytb) gene, partial cds; mitochondrial","849"
+"126","103595","Peponocephala","OL628820.1","Peponocephala electra cytochrome b (cytb) gene, partial cds; mitochondrial","849"
+"127","103594","Lagenodelphis hosei",NA,NA,NA
+"128","103593","Lagenodelphis",NA,NA,NA
+"129","103592","Feresa attenuata","OQ302784.1","Feresa attenuata voucher TN20050222-5 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"130","103591","Feresa","OQ302784.1","Feresa attenuata voucher TN20050222-5 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"131","103590","Stenella frontalis","EU517714.1","Stenella frontalis voucher SEFSC:MMMGL:Sfro039 tRNA-Glu (trnE) gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","666"
+"132","103589","Stenella clymene","MW714333.1","Stenella clymene isolate E140 cytochrome b (cytb) gene, partial cds; mitochondrial","918"
+"133","103588","Lissodelphis borealis",NA,NA,NA
+"134","103585","Delphinus tropicalis",NA,NA,NA
+"135","103584","Delphinus capensis","EU517698.1","Delphinus capensis voucher SEFSC:MMMGL:2Dc06 cytochrome b (cytb) gene, partial cds; mitochondrial","396"
+"136","103583","Cephalorhynchus heavisidii",NA,NA,NA
+"137","103582","Cephalorhynchus commersonii",NA,NA,NA
+"138","86033","Platanista indi",NA,NA,NA
+"139","85550","Balaenoptera musculus x Balaenoptera physalus",NA,NA,NA
+"140","83653","Grampus griseus","OR381459.1","Grampus griseus voucher MFRI S2214-2 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial","599"
+"141","83652","Grampus","OR381459.1","Grampus griseus voucher MFRI S2214-2 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial","599"
+"142","82174","Pseudorca crassidens","EU517710.1","Pseudorca crassidens voucher SEFSC:MMMGL:Pcra004 tRNA-Glu (trnE) gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","426"
+"143","82173","Pseudorca","EU517710.1","Pseudorca crassidens voucher SEFSC:MMMGL:Pcra004 tRNA-Glu (trnE) gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","426"
+"144","79784","Tursiops aduncus","MH000339.1","Tursiops aduncus isolate SBD03 cytochrome b (cytb) gene, partial cds; mitochondrial","704"
+"145","77568","Globicephala sp.",NA,NA,NA
+"146","74480","Ziphiidae sp.",NA,NA,NA
+"147","74395","Mesoplodon layardii","HQ400659.1","Mesoplodon layardii isolate MlayFK02JS2 cytochrome b (cytb) gene, partial cds; mitochondrial","328"
+"148","74394","Mesoplodon grayi","MT813067.1","Mesoplodon grayi voucher MNHN/MAN 1972 cytochrome b (cytb) gene, partial cds; mitochondrial","801"
+"149","74393","Mesoplodon bowdoini","HQ400649.1","Mesoplodon bowdoini isolate MbowFK03 cytochrome b (cytb) gene, partial cds; mitochondrial","188"
+"150","74392","Hyperoodon planifrons","HQ400648.1","Hyperoodon planifrons isolate FK05Hpl cytochrome b (cytb) gene, partial cds; mitochondrial","327"
+"151","74391","Berardius arnuxii","HQ400646.1","Berardius arnuxii isolate BarFK01JS5 cytochrome b (cytb) gene, partial cds; mitochondrial","680"
+"152","52116","Tasmacetus shepherdi",NA,NA,NA
+"153","52115","Tasmacetus",NA,NA,NA
+"154","52114","Mesoplodon stejnegeri",NA,NA,NA
+"155","52113","Mesoplodon mirus","KX375803.1","Mesoplodon mirus isolate DJS R568 cytochrome b (cytb) gene, partial cds; mitochondrial","174"
+"156","52112","Mesoplodon hectori","HQ400652.1","Mesoplodon hectori isolate FK03JS3Mhe cytochrome b (cytb) gene, partial cds; mitochondrial","680"
+"157","49273","Delphinidae gen. sp.","KR611986.1","Delphinidae gen. sp. clone M80 tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","424"
+"158","49272","unclassified Delphinidae","KR611986.1","Delphinidae gen. sp. clone M80 tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","424"
+"159","48752","Platanista minor",NA,NA,NA
+"160","48750","Platanista","PQ212750.1","Platanista gangetica isolate CIFRI.DOLP-1 cytochrome b (cytb) gene, partial cds; mitochondrial","359"
+"161","48747","Orcaella brevirostris","MN621343.1","Orcaella brevirostris voucher FTB OB11 cytochrome b (cytb) gene, partial cds; mitochondrial","986"
+"162","48746","Orcaella","MN621343.1","Orcaella brevirostris voucher FTB OB11 cytochrome b (cytb) gene, partial cds; mitochondrial","986"
+"163","48745","Mesoplodon bidens",NA,NA,NA
+"164","48744","Hyperoodon ampullatus",NA,NA,NA
+"165","48743","Hyperoodon","HQ400648.1","Hyperoodon planifrons isolate FK05Hpl cytochrome b (cytb) gene, partial cds; mitochondrial","327"
+"166","48742","Berardius bairdii","OR183789.1","Berardius bairdii voucher personal collection:FEROP:Bbw08_21, Moscow cytochrome b (cytb) gene, partial cds; mitochondrial","1072"
+"167","48741","Berardius","OR183789.1","Berardius bairdii voucher personal collection:FEROP:Bbw08_21, Moscow cytochrome b (cytb) gene, partial cds; mitochondrial","1072"
+"168","48723","Pontoporia blainvillei",NA,NA,NA
+"169","48722","Pontoporia",NA,NA,NA
+"170","48708","Mesoplodon densirostris",NA,NA,NA
+"171","46167","Steno bredanensis","GQ253567.1","Steno bredanensis isolate KAR/04/08 cytochrome b (Cytb) gene, partial cds; mitochondrial","413"
+"172","46166","Steno","GQ253567.1","Steno bredanensis isolate KAR/04/08 cytochrome b (Cytb) gene, partial cds; mitochondrial","413"
+"173","42100","Phocoena sinus","HM222714.1","Phocoena sinus isolate RF-9 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"174","40151","Monodon monoceros","U72038.1","Monodon monoceros cytochrome b (cytb), mitochondrial gene encoding mitochondrial protein, complete cds","1140"
+"175","40150","Monodon","U72038.1","Monodon monoceros cytochrome b (cytb), mitochondrial gene encoding mitochondrial protein, complete cds","1140"
+"176","38241","Globicephala macrorhynchus","OQ302786.1","Globicephala macrorhynchus voucher YL20070329-1 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"177","37035","Cephalorhynchus hectori",NA,NA,NA
+"178","37034","Balaenopteridae gen. sp.",NA,NA,NA
+"179","34892","Neophocaena phocaenoides","KY542096.1","Neophocaena phocaenoides isolate FP01 cytochrome b (cytb) gene, partial cds; mitochondrial","704"
+"180","34891","Neophocaena","KY542096.1","Neophocaena phocaenoides isolate FP01 cytochrome b (cytb) gene, partial cds; mitochondrial","704"
+"181","34890","Phocoena dioptrica",NA,NA,NA
+"182","33556","Balaenoptera bonaerensis","KU215791.1","Balaenoptera bonaerensis voucher SEFSC:MMMGL:26Bbon001 tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial","667"
+"183","30558","Balaenidae","MW711000.1","Eubalaena glacialis voucher MMB0329 cytochrome b (cytb) gene, partial cds; mitochondrial","227"
+"184","30557","Balaenoptera sp.",NA,NA,NA
+"185","29074","Stenella plagiodon",NA,NA,NA
+"186","27617","Mesoplodon peruvianus",NA,NA,NA
+"187","27616","Mesoplodon europaeus",NA,NA,NA
+"188","27615","Kogia breviceps","OR399902.1","Kogia breviceps isolate KbSA87/06 cytochrome b (cytb) gene, partial cds; mitochondrial","294"
+"189","27614","Phocoena spinipinnis","HM572306.1","Phocoena spinipinnis isolate B94 cytochrome b (cytb) gene, partial cds; mitochondrial","690"
+"190","27613","Lissodelphis peronii",NA,NA,NA
+"191","27612","Lissodelphis",NA,NA,NA
+"192","27610","Lagenorhynchus albirostris",NA,NA,NA
+"193","27609","Lagenorhynchus",NA,NA,NA
+"194","27608","Cephalorhynchus eutropia",NA,NA,NA
+"195","27607","Cephalorhynchus",NA,NA,NA
+"196","27606","Eubalaena glacialis","MW711000.1","Eubalaena glacialis voucher MMB0329 cytochrome b (cytb) gene, partial cds; mitochondrial","227"
+"197","27605","Eubalaena","MW711000.1","Eubalaena glacialis voucher MMB0329 cytochrome b (cytb) gene, partial cds; mitochondrial","227"
+"198","27604","Caperea marginata",NA,NA,NA
+"199","27603","Caperea",NA,NA,NA
+"200","27602","Balaena mysticetus","KF056914.1","Balaena mysticetus haplotype hpcb05 cytochrome b (Cytb) gene, complete cds; mitochondrial","1140"
+"201","27601","Balaena","KF056914.1","Balaena mysticetus haplotype hpcb05 cytochrome b (Cytb) gene, complete cds; mitochondrial","1140"
+"202","9773","Megaptera novaeangliae","OR146992.1","Megaptera novaeangliae isolate A0031 cytochrome b (CYTB) gene, partial cds; mitochondrial","244"
+"203","9772","Megaptera","OR146992.1","Megaptera novaeangliae isolate A0031 cytochrome b (CYTB) gene, partial cds; mitochondrial","244"
+"204","9771","Balaenoptera musculus","PV610717.1","Balaenoptera musculus isolate MBS-Bamu-001 cytochrome b (CYTB) gene, partial cds; mitochondrial","425"
+"205","9770","Balaenoptera physalus","OR146987.1","Balaenoptera physalus isolate A0009 cytochrome b (CYTB) gene, partial cds; mitochondrial","296"
+"206","9769","Balaenoptera edeni","MW984422.1","Balaenoptera edeni isolate WZD201903 cytochrome b (cytb) gene, partial cds; mitochondrial","650"
+"207","9768","Balaenoptera borealis","KJ586851.1","Balaenoptera borealis voucher SEFSC:MMMGL:Bbor001 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"208","9767","Balaenoptera acutorostrata","KJ586850.1","Balaenoptera acutorostrata voucher SEFSC:MMMGL:Bacu001 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"209","9766","Balaenoptera","PV610717.1","Balaenoptera musculus isolate MBS-Bamu-001 cytochrome b (CYTB) gene, partial cds; mitochondrial","425"
+"210","9765","Balaenopteridae","PV610717.1","Balaenoptera musculus isolate MBS-Bamu-001 cytochrome b (CYTB) gene, partial cds; mitochondrial","425"
+"211","9764","Eschrichtius robustus","OR146991.1","Eschrichtius robustus isolate A0026 cytochrome b (CYTB) gene, partial cds; mitochondrial","241"
+"212","9763","Eschrichtius","OR146991.1","Eschrichtius robustus isolate A0026 cytochrome b (CYTB) gene, partial cds; mitochondrial","241"
+"213","9762","Eschrichtiidae","OR146991.1","Eschrichtius robustus isolate A0026 cytochrome b (CYTB) gene, partial cds; mitochondrial","241"
+"214","9761","Mysticeti","PV610717.1","Balaenoptera musculus isolate MBS-Bamu-001 cytochrome b (CYTB) gene, partial cds; mitochondrial","425"
+"215","9760","Ziphius cavirostris","OR146990.1","Ziphius cavirostris isolate A0023 cytochrome b (CYTB) gene, partial cds; mitochondrial","295"
+"216","9759","Ziphius","OR146990.1","Ziphius cavirostris isolate A0023 cytochrome b (CYTB) gene, partial cds; mitochondrial","295"
+"217","9758","Mesoplodon carlhubbsi",NA,NA,NA
+"218","9757","Mesoplodon","PV029739.1","Mesoplodon ginkgodens cytochrome b (cytb) gene, partial cds; mitochondrial","416"
+"219","9756","Ziphiidae","PV029739.1","Mesoplodon ginkgodens cytochrome b (cytb) gene, partial cds; mitochondrial","416"
+"220","9755","Physeter macrocephalus","DQ270181.1","Physeter catodon isolate CHW1 cytochrome b (cytb) gene, partial cds; mitochondrial","172"
+"221","9753","Physeter","DQ270181.1","Physeter catodon isolate CHW1 cytochrome b (cytb) gene, partial cds; mitochondrial","172"
+"222","9752","Kogia sima","PP541713.1","Kogia sima isolate KSb cytochrome b (CYTB) gene, partial cds; mitochondrial","398"
+"223","9751","Kogia","PP541713.1","Kogia sima isolate KSb cytochrome b (CYTB) gene, partial cds; mitochondrial","398"
+"224","9750","Physeteridae","PP541713.1","Kogia sima isolate KSb cytochrome b (CYTB) gene, partial cds; mitochondrial","398"
+"225","9749","Delphinapterus leucas","MF919132.1","Delphinapterus leucas haplotype cb06 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"226","9748","Delphinapterus","MF919132.1","Delphinapterus leucas haplotype cb06 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"227","9747","Monodontidae","MF919132.1","Delphinapterus leucas haplotype cb06 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"228","9745","Phocoenoides dalli dalli",NA,NA,NA
+"229","9744","Phocoenoides dalli",NA,NA,NA
+"230","9743","Phocoenoides",NA,NA,NA
+"231","9742","Phocoena phocoena","MN330617.1","Phocoena phocoena isolate 29PHR cytochrome b (cytb) gene, partial cds; mitochondrial","148"
+"232","9741","Phocoena","MN330617.1","Phocoena phocoena isolate 29PHR cytochrome b (cytb) gene, partial cds; mitochondrial","148"
+"233","9740","Phocoenidae","MN330617.1","Phocoena phocoena isolate 29PHR cytochrome b (cytb) gene, partial cds; mitochondrial","148"
+"234","9739","Tursiops truncatus","OQ865173.1","Tursiops truncatus isolate QKM55084 tRNA-Glu gene, partial sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial","436"
+"235","9738","Tursiops","OQ865173.1","Tursiops truncatus isolate QKM55084 tRNA-Glu gene, partial sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial","436"
+"236","9737","Stenella coeruleoalba","ON959819.1","Stenella coeruleoalba isolate 28SS1 cytochrome b (cytb) gene, partial cds; mitochondrial","421"
+"237","9736","Stenella longirostris","OQ302781.1","Stenella longirostris voucher YL0236 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"238","9735","Stenella attenuata","OQ865172.1","Stenella attenuata isolate QKM55101 tRNA-Glu gene, partial sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial","436"
+"239","9734","Stenella","OQ865172.1","Stenella attenuata isolate QKM55101 tRNA-Glu gene, partial sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial","436"
+"240","9733","Orcinus orca","KM016873.1","Orcinus orca isolate 095 cytochrome b (CytB) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial","1193"
+"241","9732","Orcinus","KM016873.1","Orcinus orca isolate 095 cytochrome b (CytB) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial","1193"
+"242","9731","Globicephala melas","MN330615.1","Globicephala melas isolate 05GMO cytochrome b (cytb) gene, partial cds; mitochondrial","148"
+"243","9729","Globicephala","OQ302786.1","Globicephala macrorhynchus voucher YL20070329-1 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"244","9728","Delphinus delphis","OQ302782.1","Delphinus delphis voucher TP20070619 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"245","9727","Delphinus","OQ302782.1","Delphinus delphis voucher TP20070619 cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"246","9726","Delphinidae","OR545836.1","Sousa plumbea isolate SP-01/23 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial","1693"
+"247","9725","Inia geoffrensis","AF521112.1","Inia geoffrensis geoffrensis isolate PT13 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product","600"
+"248","9724","Inia","KU882049.1","Inia araguaiaensis isolate MJ27_TOC cytochrome b (cytb) gene, complete cds; mitochondrial","1140"
+"249","9723","Platanistidae","PQ212750.1","Platanista gangetica isolate CIFRI.DOLP-1 cytochrome b (cytb) gene, partial cds; mitochondrial","359"
+"250","9722","Odontoceti","PV029739.1","Mesoplodon ginkgodens cytochrome b (cytb) gene, partial cds; mitochondrial","416"
+"251","9721","Cetacea","PV029739.1","Mesoplodon ginkgodens cytochrome b (cytb) gene, partial cds; mitochondrial","416"
