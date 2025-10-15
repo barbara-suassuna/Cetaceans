@@ -76,3 +76,17 @@ mc4 <- as.DNAbin(mc3)
 msaR(mc4)
 # This writes a new file with the trimmed alignment
 write.FASTA(mc4, "mc_trimmed.fasta")
+
+#5 MCPH1 GENE
+mcph <- read.FASTA("raw_mcph_gene_alignment.fasta")
+length(mcph)
+
+length(unique(names(mcph))) 
+msaR(mcph)
+#trimming
+mcph2<- phyDat(mcph, type = "DNA")
+#this is where we trim out data, 60%
+mcph3 <- mcph2[, colMeans(as.character(mcph2)== "-") < 0.6]
+mcph4 <- as.DNAbin(mcph3)
+msaR(mcph4)
+write.FASTA(mc4, "mcph1_trimmed.fasta")
