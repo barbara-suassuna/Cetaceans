@@ -57,3 +57,22 @@ pmr4 <- as.DNAbin(pmr3)
 msaR(pmr4)
 # This writes a new file with the trimmed alignment
 write.FASTA(pmr4, "pmr1_trimmed.fasta")
+
+
+#4 MC1R GENE
+mc <- read.FASTA("raw_mc_gene_alignment.fasta")
+length(mc)
+
+length(unique(names(mc))) #this looks takes cares of any duplicate names
+# Look at the Multiple Sequence Alignment 
+msaR(mc) # This shows the alignment in R
+# It is best to clean up the alignment in each gene rather than in the super matrix
+
+#trimming
+mc2<- phyDat(mc, type = "DNA")
+#this is where we trim out data, 60%
+mc3 <- mc2[, colMeans(as.character(mc2)== "-") < 0.6]
+mc4 <- as.DNAbin(mc3)
+msaR(mc4)
+# This writes a new file with the trimmed alignment
+write.FASTA(mc4, "mc_trimmed.fasta")
