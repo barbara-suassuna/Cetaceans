@@ -136,3 +136,41 @@ write(cox1_sequence, file="cox1_gene.fasta")
 
 #Save TABLE in a file
 write.csv(whale, "cox1_gene_seq_info.csv")
+
+
+#4 - MC1R GENE 
+#Create a Table
+whale<-matrix(,nrow=(length(parenttaxa$`180403`$taxonname)), ncol=4)
+colnames(whale)<-c("SpeciesName", "AccNum", "SeqName", "SeqLen")
+mc_sequence<-character()
+
+for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
+  print(i)
+  whale[i,1]<-parenttaxa$`180403`$taxonname[i]
+  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 1:4500[SLEN] AND 
+                                                 MC1R[ALL]",
+                                                 sep=""), retmax=1)
+  if(length(seqout$ids)<1){
+    whale[i,2]<-NA
+    whale[i,3]<-NA
+    whale[i,4]<-NA
+  }
+  
+  else{
+    seqout1<-entrez_summary(db="nuccore", id=seqout$ids)
+    whale[i,2]<-seqout1$accessionversion
+    whale[i,3]<-seqout1$title
+    whale[i,4]<-seqout1$slen
+    
+    seqout<-entrez_fetch(db="nuccore", id=seqout1$accessionversion, rettype="fasta")
+    seqout<-sub(">([^\n]*)", paste0(">", seqout1$organism), seqout)
+    seqout<-gsub(" ", "_", seqout)
+    mc_sequence<-c(mc_sequence, seqout)
+  }
+}
+
+#Save FASTA file
+write(mc_sequence, file="mc_gene.fasta")
+
+#Save TABLE in a file
+write.csv(whale, "mc_gene_seq_info.csv")
