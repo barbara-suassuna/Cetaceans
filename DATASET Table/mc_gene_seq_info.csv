@@ -1,0 +1,97 @@
+"","SpeciesName","AccNum","SeqName","SeqLen"
+"1","Neophocaena asiaeorientalis",NA,NA,NA
+"2","Sousa sahulensis",NA,NA,NA
+"3","Platanista gangetica",NA,NA,NA
+"4","Berardius minimus",NA,NA,NA
+"5","Balaenoptera ricei",NA,NA,NA
+"6","Mesoplodon eueu",NA,NA,NA
+"7","Tursiops erebennus",NA,NA,NA
+"8","Orcinus rectipinnus",NA,NA,NA
+"9","Orcinus ater",NA,NA,NA
+"10","Inia geoffrensis",NA,NA,NA
+"11","Lipotes vexillifer",NA,NA,NA
+"12","Pontoporia blainvillei","FJ773308.1","Pontoporia blainvillei melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"13","Platanista minor",NA,NA,NA
+"14","Steno bredanensis","FJ773292.1","Steno bredanensis melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"15","Sousa chinensis","JF504936.1","Sousa chinensis voucher HR OM41 melanocortin-1 receptor (MC1R) gene, complete cds","1071"
+"16","Sousa teuszii",NA,NA,NA
+"17","Sotalia fluviatilis","JF504937.1","Sotalia fluviatilis voucher MS T1826 melanocortin-1 receptor (MC1R) gene, complete cds","1072"
+"18","Tursiops truncatus","FJ773290.1","Tursiops truncatus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"19","Stenella longirostris","JF504935.1","Stenella longirostris voucher SWFSC Z24045 melanocortin-1 receptor (MC1R) gene, complete cds","1074"
+"20","Stenella attenuata","FJ773287.1","Stenella attenuata melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"21","Stenella coeruleoalba","FJ773289.1","Stenella coeruleoalba melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"22","Stenella clymene",NA,NA,NA
+"23","Delphinus delphis","FJ773288.1","Delphinus delphis melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"24","Lagenodelphis hosei","FJ773291.1","Lagenodelphis hosei melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"25","Lagenorhynchus albirostris","FJ773302.1","Lagenorhynchus albirostris melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"26","Lagenorhynchus acutus","FJ773301.1","Lagenorhynchus acutus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"27","Lagenorhynchus obliquidens","FJ773300.1","Lagenorhynchus obliquidens melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"28","Lagenorhynchus obscurus","FJ773299.1","Lagenorhynchus obscurus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"29","Lagenorhynchus australis",NA,NA,NA
+"30","Lagenorhynchus cruciger",NA,NA,NA
+"31","Cephalorhynchus commersonii","FJ773298.1","Cephalorhynchus commersonii melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"32","Cephalorhynchus eutropia",NA,NA,NA
+"33","Cephalorhynchus heavisidii",NA,NA,NA
+"34","Cephalorhynchus hectori",NA,NA,NA
+"35","Lissodelphis borealis",NA,NA,NA
+"36","Lissodelphis peronii",NA,NA,NA
+"37","Grampus griseus","FJ773296.1","Grampus griseus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"38","Peponocephala electra","FJ773293.1","Peponocephala electra melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"39","Feresa attenuata","FJ773297.1","Feresa attenuata melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"40","Pseudorca crassidens","FJ773295.1","Pseudorca crassidens melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"41","Globicephala macrorhynchus","FJ773294.1","Globicephala macrorhynchus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"42","Orcinus orca","FJ773303.1","Orcinus orca melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"43","Orcaella brevirostris",NA,NA,NA
+"44","Phocoena phocoena","FJ773305.1","Phocoena phocoena melanocortin-1 receptor (MC1R) gene, partial cds","933"
+"45","Phocoena sinus",NA,NA,NA
+"46","Phocoena dioptrica",NA,NA,NA
+"47","Phocoena spinipinnis",NA,NA,NA
+"48","Neophocaena phocaenoides","FJ773304.1","Neophocaena phocaenoides melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"49","Phocoenoides dalli","FJ773306.1","Phocoenoides dalli melanocortin-1 receptor (MC1R) gene, partial cds","933"
+"50","Delphinapterus leucas","FJ773307.1","Delphinapterus leucas melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"51","Monodon monoceros",NA,NA,NA
+"52","Physeter macrocephalus","FJ773311.1","Physeter catodon melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"53","Kogia breviceps",NA,NA,NA
+"54","Kogia sima",NA,NA,NA
+"55","Berardius arnuxii",NA,NA,NA
+"56","Berardius bairdii",NA,NA,NA
+"57","Ziphius cavirostris","FJ773310.1","Ziphius cavirostris melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"58","Tasmacetus shepherdi",NA,NA,NA
+"59","Indopacetus pacificus",NA,NA,NA
+"60","Hyperoodon ampullatus",NA,NA,NA
+"61","Hyperoodon planifrons",NA,NA,NA
+"62","Mesoplodon hectori",NA,NA,NA
+"63","Mesoplodon mirus",NA,NA,NA
+"64","Mesoplodon europaeus",NA,NA,NA
+"65","Mesoplodon ginkgodens",NA,NA,NA
+"66","Mesoplodon grayi",NA,NA,NA
+"67","Mesoplodon carlhubbsi",NA,NA,NA
+"68","Mesoplodon bowdoini",NA,NA,NA
+"69","Mesoplodon stejnegeri",NA,NA,NA
+"70","Mesoplodon bidens","FJ773309.1","Mesoplodon bidens melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"71","Mesoplodon layardii",NA,NA,NA
+"72","Mesoplodon densirostris",NA,NA,NA
+"73","Eschrichtius robustus",NA,NA,NA
+"74","Balaenoptera acutorostrata",NA,NA,NA
+"75","Balaenoptera edeni",NA,NA,NA
+"76","Balaenoptera borealis",NA,NA,NA
+"77","Balaenoptera physalus","FJ773313.1","Balaenoptera physalus melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"78","Balaenoptera musculus",NA,NA,NA
+"79","Megaptera novaeangliae","FJ773312.1","Megaptera novaeangliae melanocortin-1 receptor (MC1R) gene, partial cds","936"
+"80","Balaena mysticetus",NA,NA,NA
+"81","Caperea marginata",NA,NA,NA
+"82","Eubalaena glacialis",NA,NA,NA
+"83","Stenella frontalis",NA,NA,NA
+"84","Globicephala melas",NA,NA,NA
+"85","Eubalaena australis",NA,NA,NA
+"86","Mesoplodon peruvianus",NA,NA,NA
+"87","Eubalaena japonica",NA,NA,NA
+"88","Balaenoptera bonaerensis",NA,NA,NA
+"89","Sousa plumbea",NA,NA,NA
+"90","Tursiops aduncus","JF504934.1","Tursiops aduncus voucher SWFSC Z4172 melanocortin-1 receptor (MC1R) gene, complete cds","1080"
+"91","Mesoplodon traversii",NA,NA,NA
+"92","Mesoplodon perrini",NA,NA,NA
+"93","Balaenoptera omurai",NA,NA,NA
+"94","Sotalia guianensis",NA,NA,NA
+"95","Mesoplodon hotaula",NA,NA,NA
+"96","Orcaella heinsohni","JF504938.1","Orcaella heinsohni voucher SWFSC Z2905 melanocortin-1 receptor (MC1R) gene, complete cds","1091"
