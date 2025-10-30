@@ -1,0 +1,1 @@
+iqtree-3.0.1-macOS % bin/iqtree3 -s Cetaceans_supermatrix.fasta -bb 1000
