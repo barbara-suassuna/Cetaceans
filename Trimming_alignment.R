@@ -1,4 +1,4 @@
-install.packages("Rogue")
+install.packages("ape")
 library(evobiR)
 library(ape)
 library(msaR)
