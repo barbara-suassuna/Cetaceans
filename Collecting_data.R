@@ -73,7 +73,7 @@ cytb_sequence<-character()
 for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
   print(i)
   whale[i,1]<-parenttaxa$`180403`$taxonname[i]
-  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 1:1300[SLEN] AND CYTB[GENE]",
+  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 300:1300[SLEN] AND CYTB[GENE]",
                                                  sep=""), retmax=1)
   if(length(seqout$ids)<1){
     whale[i,2]<-NA
@@ -111,7 +111,7 @@ cox1_sequence<-character()
 for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
   print(i)
   whale[i,1]<-parenttaxa$`180403`$taxonname[i]
-  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 300:1600[SLEN] AND COX1[GENE]",
+  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 1:1600[SLEN] AND COX1[GENE]",
                                                  sep=""), retmax=1)
   if(length(seqout$ids)<1){
     whale[i,2]<-NA
