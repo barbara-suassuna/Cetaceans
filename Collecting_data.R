@@ -59,7 +59,6 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
 write(prm1_sequence, file="prm1_gene.fasta")
 
 #Save TABLE in a file
-whale <- na.omit(whale)
 write.csv(whale, "prm1_gene_seq_info.csv")
 
 
@@ -98,7 +97,6 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
 write(cytb_sequence, file="cytb_gene.fasta")
 
 #Save TABLE in a file
-whale <- na.omit(whale)
 write.csv(whale, "cytb_gene_seq_info.csv")
 
 #3 - COX1 GENE
@@ -136,7 +134,6 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
 write(cox1_sequence, file="cox1_gene.fasta")
 
 #Save TABLE in a file
-whale <- na.omit(whale)
 write.csv(whale, "cox1_gene_seq_info.csv")
 
 
@@ -175,7 +172,6 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
 write(mc_sequence, file="mc_gene.fasta")
 
 #Save TABLE in a file
-whale <- na.omit(whale)
 write.csv(whale, "mc_gene_seq_info.csv")
 
 
@@ -214,6 +210,5 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
 write(mcph_sequence, file="mcph_gene.fasta")
 
 #Save TABLE in a file
-whale <- na.omit(whale)
 write.csv(whale, "mcph_gene_seq_info.csv")
 
