@@ -22,21 +22,21 @@ msaR(cox4)
 # This writes a new file with the trimmed alignment
 write.FASTA(cox4, "cox1_trimmed.fasta")
 
-#2 - CYTB GENE
-cytb <- read.FASTA("raw_cytb_gene_alignment.fasta")
-length(cytb)
+#2 - CSN2 GENE
+csn <- read.FASTA("raw_csn_gene_alignment.fasta")
+length(csn)
 
-length(unique(names(cytb)))  
-msaR(cytb) 
+length(unique(names(csn)))  
+msaR(csn) 
 
 #trimming
-cytb2<- phyDat(cytb, type = "DNA")
+csn2<- phyDat(csn, type = "DNA")
 #this is where we trim out data, 60%
-cytb3 <- cytb2[, colMeans(as.character(cytb2)== "-") < 0.6]
-cytb4 <- as.DNAbin(cytb3)
+csn3 <- csn2[, colMeans(as.character(csn2)== "-") < 0.6]
+csn4 <- as.DNAbin(csn3)
 msaR(cytb4)
 # This writes a new file with the trimmed alignment
-write.FASTA(cytb4, "cytb_trimmed.fasta")
+write.FASTA(csn4, "csn_trimmed.fasta")
 
 #3 - PMR1 GENE
 pmr <- read.FASTA("raw_pmr1_gene_alignment.fasta")
