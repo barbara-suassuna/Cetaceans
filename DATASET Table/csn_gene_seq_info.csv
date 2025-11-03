@@ -1,0 +1,97 @@
+"","SpeciesName","AccNum","SeqName","SeqLen"
+"1","Neophocaena asiaeorientalis","XM_024741606.1","PREDICTED: Neophocaena asiaeorientalis asiaeorientalis casein beta (CSN2), mRNA","1138"
+"2","Sousa sahulensis",NA,NA,NA
+"3","Platanista gangetica",NA,NA,NA
+"4","Berardius minimus",NA,NA,NA
+"5","Balaenoptera ricei","XM_059924064.1","PREDICTED: Balaenoptera ricei casein beta (CSN2), mRNA","757"
+"6","Mesoplodon eueu",NA,NA,NA
+"7","Tursiops erebennus",NA,NA,NA
+"8","Orcinus rectipinnus",NA,NA,NA
+"9","Orcinus ater",NA,NA,NA
+"10","Inia geoffrensis","EU189394.1","Inia geoffrensis beta-casein (CSN2) gene, partial cds","1117"
+"11","Lipotes vexillifer","JF701646.1","Lipotes vexillifer beta-casein (CSN2) gene, exon 7 and partial cds","403"
+"12","Pontoporia blainvillei","EU189390.1","Pontoporia blainvillei beta-casein (CSN2) gene, partial cds","424"
+"13","Platanista minor","JF701648.1","Platanista minor voucher SWFSC Z15224 beta-casein (CSN2) gene, exon 7 and partial cds","424"
+"14","Steno bredanensis","JF504863.1","Steno bredanensis voucher SWFSC Z38282 beta-casein (CSN2) gene, partial cds","424"
+"15","Sousa chinensis","JF504860.1","Sousa chinensis voucher HR OM41 beta-casein (CSN2) gene, partial cds","424"
+"16","Sousa teuszii",NA,NA,NA
+"17","Sotalia fluviatilis","JF504862.1","Sotalia fluviatilis voucher MS T1826 beta-casein (CSN2) gene, partial cds","424"
+"18","Tursiops truncatus","XM_073804668.1","PREDICTED: Tursiops truncatus casein beta (CSN2), mRNA","723"
+"19","Stenella longirostris","JF504857.1","Stenella longirostris voucher SWFSC Z24045 beta-casein (CSN2) gene, partial cds","424"
+"20","Stenella attenuata","JF504859.1","Stenella attenuata voucher SWFSC Z592 beta-casein (CSN2) gene, partial cds","424"
+"21","Stenella coeruleoalba","JF504858.1","Stenella coeruleoalba voucher SWFSC Z37941 beta-casein (CSN2) gene, partial cds","424"
+"22","Stenella clymene",NA,NA,NA
+"23","Delphinus delphis","XM_060013165.1","PREDICTED: Delphinus delphis casein beta (CSN2), mRNA","816"
+"24","Lagenodelphis hosei","JF504861.1","Lagenodelphis hosei voucher SWFSC Z30468 beta-casein (CSN2) gene, partial cds","424"
+"25","Lagenorhynchus albirostris","XM_060147035.1","PREDICTED: Lagenorhynchus albirostris casein beta (CSN2), mRNA","813"
+"26","Lagenorhynchus acutus","JF504867.1","Lagenorhynchus acutus voucher SWFSC Z7842 beta-casein (CSN2) gene, partial cds","424"
+"27","Lagenorhynchus obliquidens","JF504865.1","Lagenorhynchus obliquidens voucher SWFSC Z4804 beta-casein (CSN2) gene, partial cds","424"
+"28","Lagenorhynchus obscurus",NA,NA,NA
+"29","Lagenorhynchus australis",NA,NA,NA
+"30","Lagenorhynchus cruciger",NA,NA,NA
+"31","Cephalorhynchus commersonii","JF504869.1","Cephalorhynchus commersonii voucher SWFSC Z480 beta-casein (CSN2) gene, partial cds","424"
+"32","Cephalorhynchus eutropia",NA,NA,NA
+"33","Cephalorhynchus heavisidii",NA,NA,NA
+"34","Cephalorhynchus hectori",NA,NA,NA
+"35","Lissodelphis borealis","JF504864.1","Lissodelphis borealis voucher SWFSC Z176 beta-casein (CSN2) gene, partial cds","424"
+"36","Lissodelphis peronii",NA,NA,NA
+"37","Grampus griseus","JF701643.1","Grampus griseus voucher SWFSC Z483 beta-casein (CSN2) gene, exon 7 and partial cds","424"
+"38","Peponocephala electra","JF504872.1","Peponocephala electra voucher SWFSC Z34003 beta-casein (CSN2) gene, partial cds","424"
+"39","Feresa attenuata","JF504868.1","Feresa attenuata voucher SWFSC Z3944 beta-casein (CSN2) gene, partial cds","424"
+"40","Pseudorca crassidens","XM_067734634.1","PREDICTED: Pseudorca crassidens casein beta (CSN2), mRNA","719"
+"41","Globicephala macrorhynchus","JF701636.1","Globicephala macrorhynchus voucher SWFSC Z537 beta-casein (CSN2) gene, exon 7 and partial cds","587"
+"42","Orcinus orca","XM_004268341.3","PREDICTED: Orcinus orca casein beta (CSN2), mRNA","1132"
+"43","Orcaella brevirostris",NA,NA,NA
+"44","Phocoena phocoena","XM_065878181.1","PREDICTED: Phocoena phocoena casein beta (CSN2), mRNA","1136"
+"45","Phocoena sinus","XM_032632699.1","PREDICTED: Phocoena sinus casein beta (CSN2), mRNA","1136"
+"46","Phocoena dioptrica",NA,NA,NA
+"47","Phocoena spinipinnis",NA,NA,NA
+"48","Neophocaena phocaenoides","JF504874.1","Neophocaena phocaenoides voucher SWFSC Z984 beta-casein (CSN2) gene, partial cds","321"
+"49","Phocoenoides dalli","JF701645.1","Phocoenoides dalli voucher SWFSC Z711 beta-casein (CSN2) gene, exon 7 and partial cds","424"
+"50","Delphinapterus leucas","XM_022561699.1","PREDICTED: Delphinapterus leucas casein beta (CSN2), transcript variant X2, mRNA","1101"
+"51","Monodon monoceros","XM_029235456.1","PREDICTED: Monodon monoceros casein beta (CSN2), mRNA","1138"
+"52","Physeter macrocephalus","XM_007122517.3","PREDICTED: Physeter macrocephalus casein beta (CSN2), mRNA","1135"
+"53","Kogia breviceps","XM_067036917.1","PREDICTED: Kogia breviceps casein beta (CSN2), transcript variant X4, mRNA","1092"
+"54","Kogia sima",NA,NA,NA
+"55","Berardius arnuxii",NA,NA,NA
+"56","Berardius bairdii",NA,NA,NA
+"57","Ziphius cavirostris","EU444890.1","Ziphius cavirostris CSN2 (CSN2) gene, partial cds","424"
+"58","Tasmacetus shepherdi","JF701647.1","Tasmacetus shepherdi voucher SWFSC Z4971 beta-casein (CSN2) gene, exon 7 and partial cds","424"
+"59","Indopacetus pacificus",NA,NA,NA
+"60","Hyperoodon ampullatus",NA,NA,NA
+"61","Hyperoodon planifrons",NA,NA,NA
+"62","Mesoplodon hectori",NA,NA,NA
+"63","Mesoplodon mirus",NA,NA,NA
+"64","Mesoplodon europaeus",NA,NA,NA
+"65","Mesoplodon ginkgodens",NA,NA,NA
+"66","Mesoplodon grayi",NA,NA,NA
+"67","Mesoplodon carlhubbsi",NA,NA,NA
+"68","Mesoplodon bowdoini",NA,NA,NA
+"69","Mesoplodon stejnegeri",NA,NA,NA
+"70","Mesoplodon bidens",NA,NA,NA
+"71","Mesoplodon layardii",NA,NA,NA
+"72","Mesoplodon densirostris","XM_060096826.1","PREDICTED: Mesoplodon densirostris casein beta (CSN2), mRNA","813"
+"73","Eschrichtius robustus","XM_068541978.1","PREDICTED: Eschrichtius robustus casein beta (CSN2), mRNA","813"
+"74","Balaenoptera acutorostrata","XM_057546306.1","PREDICTED: Balaenoptera acutorostrata casein beta (CSN2), mRNA","812"
+"75","Balaenoptera edeni","EU444895.1","Balaenoptera edeni CSN2 (CSN2) gene, partial cds","424"
+"76","Balaenoptera borealis","EU444894.1","Balaenoptera borealis CSN2 (CSN2) gene, partial cds","424"
+"77","Balaenoptera physalus","EU444892.1","Balaenoptera physalus CSN2 (CSN2) gene, partial cds","424"
+"78","Balaenoptera musculus","XM_036853046.1","PREDICTED: Balaenoptera musculus casein beta (CSN2), transcript variant X2, mRNA","1137"
+"79","Megaptera novaeangliae","JF701640.1","Megaptera novaeangliae voucher SWFSC Z11727 beta-casein (CSN2) gene, exon 7 and partial cds","585"
+"80","Balaena mysticetus","EU444900.1","Balaena mysticetus CSN2 (CSN2) gene, partial cds","424"
+"81","Caperea marginata","JF701642.1","Caperea marginata voucher SWFSC Z26572 beta-casein (CSN2) gene, exon 7 and partial cds","574"
+"82","Eubalaena glacialis","XM_061191016.1","PREDICTED: Eubalaena glacialis casein beta (CSN2), mRNA","813"
+"83","Stenella frontalis",NA,NA,NA
+"84","Globicephala melas","XM_030880736.2","PREDICTED: Globicephala melas casein beta (CSN2), mRNA","813"
+"85","Eubalaena australis",NA,NA,NA
+"86","Mesoplodon peruvianus","JF701639.1","Mesoplodon peruvianus beta-casein (CSN2) gene, exon 7 and partial cds","584"
+"87","Eubalaena japonica","EU444901.1","Eubalaena japonica CSN2 (CSN2) gene, partial cds","424"
+"88","Balaenoptera bonaerensis","EU444896.1","Balaenoptera bonaerensis CSN2 (CSN2) gene, partial cds","424"
+"89","Sousa plumbea",NA,NA,NA
+"90","Tursiops aduncus","JF504856.1","Tursiops aduncus voucher SWFSC Z4172 beta-casein (CSN2) gene, partial cds","424"
+"91","Mesoplodon traversii",NA,NA,NA
+"92","Mesoplodon perrini",NA,NA,NA
+"93","Balaenoptera omurai",NA,NA,NA
+"94","Sotalia guianensis",NA,NA,NA
+"95","Mesoplodon hotaula",NA,NA,NA
+"96","Orcaella heinsohni",NA,NA,NA
