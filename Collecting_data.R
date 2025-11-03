@@ -62,17 +62,17 @@ write(prm1_sequence, file="prm1_gene.fasta")
 write.csv(whale, "prm1_gene_seq_info.csv")
 
 
-#2- CYTB GENE
+#2-  CSN2 GENE
 #Create a Table
 whale<-matrix(,nrow=(length(parenttaxa$`180403`$taxonname)), ncol=4)
 colnames(whale)<-c("SpeciesName", "AccNum", "SeqName", "SeqLen")
-cytb_sequence<-character()
+csn_sequence<-character()
 
 #LOOP
 for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
   print(i)
   whale[i,1]<-parenttaxa$`180403`$taxonname[i]
-  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 300:1300[SLEN] AND CYTB[GENE]",
+  seqout<-entrez_search(db="nuccore", term=paste(parenttaxa$`180403`$taxonname[i], "[ORGN] AND 1:1200[SLEN] AND CSN2[ALL]",
                                                  sep=""), retmax=1)
   if(length(seqout$ids)<1){
     whale[i,2]<-NA
@@ -89,15 +89,15 @@ for(i in 1: length(unique(parenttaxa$`180403`$taxonname))){
     seqout<-entrez_fetch(db="nuccore", id=seqout1$accessionversion, rettype="fasta")
     seqout<-sub(">([^\n]*)", paste0(">", seqout1$organism), seqout)
     seqout<-gsub(" ", "_", seqout)
-    cytb_sequence<-c(cytb_sequence, seqout)
+    csn_sequence<-c(csn_sequence, seqout)
   }
 }
 
 #Save FASTA file
-write(cytb_sequence, file="cytb_gene.fasta")
+write(csn_sequence, file="csn_gene.fasta")
 
 #Save TABLE in a file
-write.csv(whale, "cytb_gene_seq_info.csv")
+write.csv(whale, "csn_gene_seq_info.csv")
 
 #3 - COX1 GENE
 #Create a Table
