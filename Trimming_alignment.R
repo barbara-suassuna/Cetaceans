@@ -34,7 +34,7 @@ csn2<- phyDat(csn, type = "DNA")
 #this is where we trim out data, 60%
 csn3 <- csn2[, colMeans(as.character(csn2)== "-") < 0.6]
 csn4 <- as.DNAbin(csn3)
-msaR(cytb4)
+msaR(csn4)
 # This writes a new file with the trimmed alignment
 write.FASTA(csn4, "csn_trimmed.fasta")
 
