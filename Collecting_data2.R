@@ -68,7 +68,7 @@ write.csv(whale, "cox1-info.csv")
 
 ##2 - MC1R GENE 
 #Create a Table
-whale<-matrix(,nrow=(length(parenttaxa$`180403`$taxonname)), ncol=4)
+whale<-matrix(,nrow=(length(species_outgroup)), ncol=4)
 colnames(whale)<-c("SpeciesName", "AccNum", "SeqName", "SeqLen")
 mc_sequence<-character()
 
