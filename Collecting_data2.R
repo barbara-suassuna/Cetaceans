@@ -250,43 +250,6 @@ write(mcph_sequence, file="mcph_gene.fasta")
 #Save TABLE in a file
 write.csv(whale, "mcph-info.csv")
 
-##7 - ND2 GENE 
-#Create a Table
-whale<-matrix(,nrow=(length(species_outgroup)), ncol=4)
-colnames(whale)<-c("SpeciesName", "AccNum", "SeqName", "SeqLen")
-nd_sequence<-character()
-
-for(i in 1: length(unique(species_outgroup))){
-  print(i)
-  whale[i,1]<-species_outgroup[i]
-  seqout<-entrez_search(db="nuccore", term=paste(species_outgroup[i], "[ORGN] AND 1:4500[SLEN] AND 
-                                                 ND2[ALL]",
-                                                 sep=""), retmax=1)
-  if(length(seqout$ids)<1){
-    whale[i,2]<-NA
-    whale[i,3]<-NA
-    whale[i,4]<-NA
-  }
-  
-  else{
-    seqout1<-entrez_summary(db="nuccore", id=seqout$ids)
-    whale[i,2]<-seqout1$accessionversion
-    whale[i,3]<-seqout1$title
-    whale[i,4]<-seqout1$slen
-    
-    seqout<-entrez_fetch(db="nuccore", id=seqout1$accessionversion, rettype="fasta")
-    seqout<-sub(">([^\n]*)", paste0(">", seqout1$organism), seqout)
-    seqout<-gsub(" ", "_", seqout)
-    nd_sequence<-c(nd_sequence, seqout)
-  }
-}
-
-#Save FASTA file
-write(mcph_sequence, file="nd_gene.fasta")
-
-#Save TABLE in a file
-write.csv(whale, "nd-info.csv")
-
 
 
 
