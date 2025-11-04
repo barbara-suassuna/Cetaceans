@@ -1,0 +1,102 @@
+"","SpeciesName","AccNum","SeqName","SeqLen"
+"1","Neophocaena asiaeorientalis","XM_024754187.1","PREDICTED: Neophocaena asiaeorientalis asiaeorientalis enamelin (ENAM), mRNA","3441"
+"2","Sousa sahulensis",NA,NA,NA
+"3","Platanista gangetica",NA,NA,NA
+"4","Berardius minimus",NA,NA,NA
+"5","Balaenoptera ricei","XM_059924060.1","PREDICTED: Balaenoptera ricei enamelin (ENAM), mRNA","3465"
+"6","Mesoplodon eueu",NA,NA,NA
+"7","Tursiops erebennus",NA,NA,NA
+"8","Orcinus rectipinnus",NA,NA,NA
+"9","Orcinus ater",NA,NA,NA
+"10","Inia geoffrensis","GQ354851.1","Inia geoffrensis enamelin (ENAM) gene, exon 10 and partial cds","2752"
+"11","Lipotes vexillifer","XM_007446091.1","PREDICTED: Lipotes vexillifer enamelin (ENAM), mRNA","3441"
+"12","Pontoporia blainvillei","GQ354852.1","Pontoporia blainvillei enamelin (ENAM) gene, exon 10 and partial cds","2752"
+"13","Platanista minor","GQ354854.1","Platanista minor enamelin (ENAM) gene, exon 10 and partial cds","2752"
+"14","Steno bredanensis",NA,NA,NA
+"15","Sousa chinensis",NA,NA,NA
+"16","Sousa teuszii",NA,NA,NA
+"17","Sotalia fluviatilis",NA,NA,NA
+"18","Tursiops truncatus","XM_033857118.1","PREDICTED: Tursiops truncatus enamelin (ENAM), mRNA","2912"
+"19","Stenella longirostris",NA,NA,NA
+"20","Stenella attenuata",NA,NA,NA
+"21","Stenella coeruleoalba",NA,NA,NA
+"22","Stenella clymene",NA,NA,NA
+"23","Delphinus delphis","XM_060012421.1","PREDICTED: Delphinus delphis enamelin (ENAM), mRNA","3529"
+"24","Lagenodelphis hosei",NA,NA,NA
+"25","Lagenorhynchus albirostris","XM_060147240.1","PREDICTED: Lagenorhynchus albirostris enamelin (ENAM), mRNA","3444"
+"26","Lagenorhynchus acutus",NA,NA,NA
+"27","Lagenorhynchus obliquidens",NA,NA,NA
+"28","Lagenorhynchus obscurus",NA,NA,NA
+"29","Lagenorhynchus australis",NA,NA,NA
+"30","Lagenorhynchus cruciger",NA,NA,NA
+"31","Cephalorhynchus commersonii",NA,NA,NA
+"32","Cephalorhynchus eutropia",NA,NA,NA
+"33","Cephalorhynchus heavisidii",NA,NA,NA
+"34","Cephalorhynchus hectori",NA,NA,NA
+"35","Lissodelphis borealis",NA,NA,NA
+"36","Lissodelphis peronii",NA,NA,NA
+"37","Grampus griseus",NA,NA,NA
+"38","Peponocephala electra",NA,NA,NA
+"39","Feresa attenuata",NA,NA,NA
+"40","Pseudorca crassidens","XM_067736220.1","PREDICTED: Pseudorca crassidens enamelin (ENAM), mRNA","3444"
+"41","Globicephala macrorhynchus",NA,NA,NA
+"42","Orcinus orca","XM_004283582.3","PREDICTED: Orcinus orca enamelin (ENAM), mRNA","2975"
+"43","Orcaella brevirostris",NA,NA,NA
+"44","Phocoena phocoena","XM_065878221.1","PREDICTED: Phocoena phocoena enamelin (ENAM), mRNA","3441"
+"45","Phocoena sinus","XM_032632983.1","PREDICTED: Phocoena sinus enamelin (ENAM), mRNA","3915"
+"46","Phocoena dioptrica",NA,NA,NA
+"47","Phocoena spinipinnis",NA,NA,NA
+"48","Neophocaena phocaenoides",NA,NA,NA
+"49","Phocoenoides dalli",NA,NA,NA
+"50","Delphinapterus leucas","XM_030764031.1","PREDICTED: Delphinapterus leucas enamelin (ENAM), mRNA","2841"
+"51","Monodon monoceros","XM_029235537.1","PREDICTED: Monodon monoceros enamelin (ENAM), mRNA","4848"
+"52","Physeter macrocephalus","XM_007118665.2","PREDICTED: Physeter macrocephalus enamelin (ENAM), mRNA","3889"
+"53","Kogia breviceps","XM_067036247.1","PREDICTED: Kogia breviceps enamelin (ENAM), mRNA","3450"
+"54","Kogia sima","OK391141.1","Kogia sima ENAM (ENAM) pseudogene, exons 7 and 8 and partial sequence","5969"
+"55","Berardius arnuxii",NA,NA,NA
+"56","Berardius bairdii",NA,NA,NA
+"57","Ziphius cavirostris","JF701656.1","Ziphius cavirostris voucher SWFSC Z2157 enamelin (ENAM) gene, partial cds","533"
+"58","Tasmacetus shepherdi",NA,NA,NA
+"59","Indopacetus pacificus",NA,NA,NA
+"60","Hyperoodon ampullatus",NA,NA,NA
+"61","Hyperoodon planifrons",NA,NA,NA
+"62","Mesoplodon hectori",NA,NA,NA
+"63","Mesoplodon mirus",NA,NA,NA
+"64","Mesoplodon europaeus",NA,NA,NA
+"65","Mesoplodon ginkgodens",NA,NA,NA
+"66","Mesoplodon grayi",NA,NA,NA
+"67","Mesoplodon carlhubbsi",NA,NA,NA
+"68","Mesoplodon bowdoini",NA,NA,NA
+"69","Mesoplodon stejnegeri",NA,NA,NA
+"70","Mesoplodon bidens","GQ354853.1","Mesoplodon bidens enamelin (ENAM) gene, exon 10 and partial cds","2752"
+"71","Mesoplodon layardii",NA,NA,NA
+"72","Mesoplodon densirostris","XM_060092482.1","PREDICTED: Mesoplodon densirostris enamelin (ENAM), mRNA","3441"
+"73","Eschrichtius robustus","XM_068542172.1","PREDICTED: Eschrichtius robustus enamelin (ENAM), mRNA","3438"
+"74","Balaenoptera acutorostrata","XM_007193564.2","PREDICTED: Balaenoptera acutorostrata enamelin (ENAM), mRNA","3438"
+"75","Balaenoptera edeni","EU445055.1","Balaenoptera edeni ENAM (ENAM) gene, partial cds","533"
+"76","Balaenoptera borealis","EU445054.1","Balaenoptera borealis ENAM (ENAM) gene, partial cds","533"
+"77","Balaenoptera physalus","EU445052.1","Balaenoptera physalus ENAM (ENAM) gene, partial cds","533"
+"78","Balaenoptera musculus","XM_036852036.1","PREDICTED: Balaenoptera musculus enamelin (ENAM), mRNA","3444"
+"79","Megaptera novaeangliae","GQ354842.1","Megaptera novaeangliae ENAM pseudogene, exon 10","2738"
+"80","Balaena mysticetus","EU445060.1","Balaena mysticetus ENAM (ENAM) gene, partial cds","533"
+"81","Caperea marginata","OK282857.1","Caperea marginata ENAM (ENAM) pseudogene, complete sequence","4297"
+"82","Eubalaena glacialis","XM_061191439.1","PREDICTED: Eubalaena glacialis enamelin (ENAM), mRNA","3444"
+"83","Stenella frontalis",NA,NA,NA
+"84","Globicephala melas","XM_030877801.2","PREDICTED: Globicephala melas enamelin (ENAM), mRNA","2936"
+"85","Eubalaena australis","GQ354841.1","Eubalaena australis ENAM pseudogene, exon 10","2752"
+"86","Mesoplodon peruvianus",NA,NA,NA
+"87","Eubalaena japonica","EU445062.1","Eubalaena japonica ENAM (ENAM) gene, partial cds","533"
+"88","Balaenoptera bonaerensis","EU445056.1","Balaenoptera bonaerensis ENAM pseudogene, partial sequence","526"
+"89","Sousa plumbea",NA,NA,NA
+"90","Tursiops aduncus",NA,NA,NA
+"91","Mesoplodon traversii",NA,NA,NA
+"92","Mesoplodon perrini",NA,NA,NA
+"93","Balaenoptera omurai",NA,NA,NA
+"94","Sotalia guianensis",NA,NA,NA
+"95","Mesoplodon hotaula",NA,NA,NA
+"96","Orcaella heinsohni",NA,NA,NA
+"97","Hexaprotodon liberiensis","EU445067.1","Hexaprotodon liberiensis ENAM (ENAM) gene, partial cds","533"
+"98","Hexaprotodon madagascariensis",NA,NA,NA
+"99","Hippopotamus amphibius","XM_057729218.1","PREDICTED: Hippopotamus amphibius kiboko enamelin (ENAM), mRNA","3895"
+"100","Hippopotamus lemerlei",NA,NA,NA
+"101","Hippopotamus laloumena",NA,NA,NA
