@@ -1,0 +1,1 @@
+iqtree-3.0.1-macOS % bin/iqtree3 -s supermatrix_data1.fasta -bb 1000
