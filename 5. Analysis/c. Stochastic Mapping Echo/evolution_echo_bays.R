@@ -1,7 +1,9 @@
 library(ape)
 library(ggplot2)
 library(geiger)
+library(phytools)
 library(phangorn)
+library(treeio)
 
 #-----------------------#
 #Read our BEAST2 tree file and Time-calibrate our tree file
@@ -17,7 +19,7 @@ discrete.data <- read.csv ("DiscreteDataMatrix.csv",row.names=1,stringsAsFactors
 echo <- setNames(discrete.data$Echolocation, rownames(discrete.data))
 levels(echo)
 
-#--Find best fit model
+#--Find best fit model--#
 #Fit ER model
 fit.ER <- fitMk (bays_tree@phylo, echo, model="ER")
 print(fit.ER)
@@ -55,36 +57,46 @@ head(n.changes,30) #looks at first 30 trees' summary of changes
 ##Set colors
 cols<-setNames(c("black","#E7298A"),c("echo","no_echo"))
 
-##Set map for first most common
-i<-11
+##Set map for first most parsimonious
+i<-1
+#par(mar=c(8,5,10,15))
 plot(smaps.echo[[i]],cols,ftype="i",fsize=0.6,
-     outline=TRUE,lwd=0.75,ylim=c(-2,Ntip(bays_tree@phylo$tip.label)))
+     outline=TRUE,lwd=0.75,ylim=c(-10,Ntip(bays_tree@phylo)+10))
+axisPhylo(side=3, root.time=55, line= -2.5, cex.axis=0.5)
 markChanges(smaps.echo[[i]],
             setNames(c("black","black"),names(cols)),cex=0.5,lwd=1)
 markChanges(smaps.echo[[i]],cols,cex=0.5,lwd=2)
+par(xpd=TRUE)
 text(paste("Number of changes:",sum(n.changes[i,])),
      x=mean(par()$usr[1:2]),
      y=-4,cex=1.5)
+par(xpd=FALSE)
 legend("left",
        legend = names(cols),
        fill   = cols,
        title  = "Echolocation",
        cex    = 1,
        inset  = c(0.075, 0.075))
-?plot
-##Set map for second most common
+
+##Set map for second most parsimonious
 i<-2
+#par(mar=c(8,5,10,15))
 plot(smaps.echo[[i]],cols,ftype="i",fsize=0.6,
-     outline=TRUE,lwd=0.75,ylim=c(-5,Ntip(root.tree)))
+     outline=TRUE,lwd=0.75,ylim=c(-10,Ntip(bays_tree@phylo)+10))
+axisPhylo(side=3, root.time=55, line= -2.5, cex.axis=0.5)
 markChanges(smaps.echo[[i]],
             setNames(c("black","black"),names(cols)),cex=0.5,lwd=1)
 markChanges(smaps.echo[[i]],cols,cex=0.5,lwd=2)
+par(xpd=TRUE)
 text(paste("Number of changes:",sum(n.changes[i,])),
      x=mean(par()$usr[1:2]),
      y=-4,cex=1.5)
+par(xpd=FALSE)
 legend("left",
        legend = names(cols),
        fill   = cols,
        title  = "Echolocation",
        cex    = 1,
        inset  = c(0.075, 0.075))
+
+
