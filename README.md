@@ -10,6 +10,6 @@ Summary of Workflow
 4. Phylogenetic Inference: Both IQ-TREE and BEAST2 were used to reconstruct a phylogeny. Each has its own subfolder with the outputs.
      - IQ-TREE: the concatenated supermatrix was analyzed to create a maximum-likelihood tree.
      - BEAST2: a partitioned NEXUS file was created with the python script provided and imported into BEAUti to set up the XML file. The latter was input into BEAST2. 
-6. Analysis: This folder includes scripts to visualize the trees with support values, create a heatmap of discrete traits, and perform stochastic character mapping of echolocation. There is a subfolder for each analysis.
+6. Analysis: This folder includes scripts to visualize the trees with support values, create a heatmap of discrete traits, and perform stochastic character mapping of echolocation. There is a subfolder for each analysis. Please note, the Maximum Likelihood results were not used in this step of the analysis.
 7. Bibliography: References used throughout the project.
 8. Final Tree: Final phylogeny from the analyses above.
